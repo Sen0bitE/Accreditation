@@ -7386,6 +7386,47 @@
   {
     "subject": "КПИЯП",
     "variant": 7,
+    "number": 1,
+    "question": "Какой оператор используется для проверки на равенство двух значений в C#?",
+    "options": [
+      {
+        "key": "1",
+        "text": "=",
+        "is_correct": false,
+        "images": []
+      },
+      {
+        "key": "2",
+        "text": "==",
+        "is_correct": true,
+        "images": []
+      },
+      {
+        "key": "3",
+        "text": "===",
+        "is_correct": false,
+        "images": []
+      },
+      {
+        "key": "4",
+        "text": "<>",
+        "is_correct": false,
+        "images": []
+      },
+      {
+        "key": "5",
+        "text": "+=",
+        "is_correct": false,
+        "images": []
+      }
+    ],
+    "images": [],
+    "correct_key": "2",
+    "id": 181
+  },
+  {
+    "subject": "КПИЯП",
+    "variant": 7,
     "number": 2,
     "question": "Может ли интерфейс наследовать (расширять) один или несколько других интерфейсов?",
     "options": [
@@ -7422,7 +7463,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 181
+    "id": 182
   },
   {
     "subject": "КПИЯП",
@@ -7463,7 +7504,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 182
+    "id": 183
   },
   {
     "subject": "КПИЯП",
@@ -7504,7 +7545,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 183
+    "id": 184
   },
   {
     "subject": "КПИЯП",
@@ -7545,7 +7586,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 184
+    "id": 185
   },
   {
     "subject": "КПИЯП",
@@ -7586,7 +7627,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 185
+    "id": 186
   },
   {
     "subject": "КПИЯП",
@@ -7627,7 +7668,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 186
+    "id": 187
   },
   {
     "subject": "КПИЯП",
@@ -7668,7 +7709,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 187
+    "id": 188
   },
   {
     "subject": "КПИЯП",
@@ -7709,7 +7750,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 188
+    "id": 189
   },
   {
     "subject": "КПИЯП",
@@ -7750,7 +7791,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 189
+    "id": 190
   },
   {
     "subject": "КПИЯП",
@@ -7791,7 +7832,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 190
+    "id": 191
   },
   {
     "subject": "КПИЯП",
@@ -7832,7 +7873,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 191
+    "id": 192
   },
   {
     "subject": "КПИЯП",
@@ -7873,7 +7914,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 192
+    "id": 193
   },
   {
     "subject": "КПИЯП",
@@ -7914,7 +7955,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 193
+    "id": 194
   },
   {
     "subject": "КПИЯП",
@@ -7955,7 +7996,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 194
+    "id": 195
   },
   {
     "subject": "КПИЯП",
@@ -7996,7 +8037,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 195
+    "id": 196
   },
   {
     "subject": "КПИЯП",
@@ -8037,7 +8078,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 196
+    "id": 197
   },
   {
     "subject": "КПИЯП",
@@ -8080,7 +8121,7 @@
       "images/КПИЯП/v7_q18_img003.png"
     ],
     "correct_key": "3",
-    "id": 197
+    "id": 198
   },
   {
     "subject": "КПИЯП",
@@ -8121,7 +8162,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 198
+    "id": 199
   },
   {
     "subject": "КПИЯП",
@@ -8164,7 +8205,7 @@
       "images/КПИЯП/v7_q20_img004.png"
     ],
     "correct_key": "2",
-    "id": 199
+    "id": 200
   },
   {
     "subject": "КПИЯП",
@@ -8205,7 +8246,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 200
+    "id": 201
   },
   {
     "subject": "КПИЯП",
@@ -8246,7 +8287,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 201
+    "id": 202
   },
   {
     "subject": "КПИЯП",
@@ -8287,7 +8328,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 202
+    "id": 203
   },
   {
     "subject": "КПИЯП",
@@ -8328,7 +8369,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 203
+    "id": 204
   },
   {
     "subject": "КПИЯП",
@@ -8369,7 +8410,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 204
+    "id": 205
   },
   {
     "subject": "КПИЯП",
@@ -8410,7 +8451,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 205
+    "id": 206
   },
   {
     "subject": "КПИЯП",
@@ -8451,7 +8492,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 206
+    "id": 207
   },
   {
     "subject": "КПИЯП",
@@ -8492,7 +8533,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 207
+    "id": 208
   },
   {
     "subject": "КПИЯП",
@@ -8533,7 +8574,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 208
+    "id": 209
   },
   {
     "subject": "КПИЯП",
@@ -8574,7 +8615,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 209
+    "id": 210
   },
   {
     "subject": "КПИЯП",
@@ -8615,7 +8656,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 210
+    "id": 211
   },
   {
     "subject": "КПИЯП",
@@ -8656,7 +8697,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 211
+    "id": 212
   },
   {
     "subject": "КПИЯП",
@@ -8697,7 +8738,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 212
+    "id": 213
   },
   {
     "subject": "КПИЯП",
@@ -8738,7 +8779,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 213
+    "id": 214
   },
   {
     "subject": "КПИЯП",
@@ -8779,7 +8820,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 214
+    "id": 215
   },
   {
     "subject": "КПИЯП",
@@ -8820,7 +8861,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 215
+    "id": 216
   },
   {
     "subject": "КПИЯП",
@@ -8861,7 +8902,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 216
+    "id": 217
   },
   {
     "subject": "КПИЯП",
@@ -8902,7 +8943,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 217
+    "id": 218
   },
   {
     "subject": "КПИЯП",
@@ -8943,7 +8984,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 218
+    "id": 219
   },
   {
     "subject": "КПИЯП",
@@ -8984,7 +9025,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 219
+    "id": 220
   },
   {
     "subject": "КПИЯП",
@@ -9025,7 +9066,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 220
+    "id": 221
   },
   {
     "subject": "КПИЯП",
@@ -9066,7 +9107,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 221
+    "id": 222
   },
   {
     "subject": "КПИЯП",
@@ -9107,7 +9148,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 222
+    "id": 223
   },
   {
     "subject": "КПИЯП",
@@ -9148,7 +9189,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 223
+    "id": 224
   },
   {
     "subject": "КПИЯП",
@@ -9189,7 +9230,7 @@
     ],
     "images": [],
     "correct_key": "C",
-    "id": 224
+    "id": 225
   },
   {
     "subject": "КПИЯП",
@@ -9230,7 +9271,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 225
+    "id": 226
   },
   {
     "subject": "КПИЯП",
@@ -9271,7 +9312,7 @@
     ],
     "images": [],
     "correct_key": "C",
-    "id": 226
+    "id": 227
   },
   {
     "subject": "КПИЯП",
@@ -9312,7 +9353,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 227
+    "id": 228
   },
   {
     "subject": "КПИЯП",
@@ -9353,7 +9394,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 228
+    "id": 229
   },
   {
     "subject": "КПИЯП",
@@ -9394,7 +9435,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 229
+    "id": 230
   },
   {
     "subject": "КПИЯП",
@@ -9435,7 +9476,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 230
+    "id": 231
   },
   {
     "subject": "КПИЯП",
@@ -9476,7 +9517,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 231
+    "id": 232
   },
   {
     "subject": "КПИЯП",
@@ -9517,7 +9558,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 232
+    "id": 233
   },
   {
     "subject": "КПИЯП",
@@ -9558,7 +9599,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 233
+    "id": 234
   },
   {
     "subject": "КПИЯП",
@@ -9599,7 +9640,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 234
+    "id": 235
   },
   {
     "subject": "КПИЯП",
@@ -9640,7 +9681,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 235
+    "id": 236
   },
   {
     "subject": "КПИЯП",
@@ -9681,7 +9722,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 236
+    "id": 237
   },
   {
     "subject": "КПИЯП",
@@ -9724,7 +9765,7 @@
       "images/КПИЯП/v9_q17_img005.png"
     ],
     "correct_key": "2",
-    "id": 237
+    "id": 238
   },
   {
     "subject": "КПИЯП",
@@ -9767,7 +9808,7 @@
       "images/КПИЯП/v9_q19_img006.png"
     ],
     "correct_key": "1",
-    "id": 238
+    "id": 239
   },
   {
     "subject": "КПИЯП",
@@ -9808,7 +9849,7 @@
     ],
     "images": [],
     "correct_key": "B",
-    "id": 239
+    "id": 240
   },
   {
     "subject": "ОАИП",
@@ -9849,7 +9890,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 240
+    "id": 241
   },
   {
     "subject": "ОАИП",
@@ -9890,7 +9931,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 241
+    "id": 242
   },
   {
     "subject": "ОАИП",
@@ -9931,7 +9972,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 242
+    "id": 243
   },
   {
     "subject": "ОАИП",
@@ -9972,7 +10013,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 243
+    "id": 244
   },
   {
     "subject": "ОАИП",
@@ -10013,7 +10054,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 244
+    "id": 245
   },
   {
     "subject": "ОАИП",
@@ -10054,7 +10095,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 245
+    "id": 246
   },
   {
     "subject": "ОАИП",
@@ -10095,7 +10136,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 246
+    "id": 247
   },
   {
     "subject": "ОАИП",
@@ -10136,7 +10177,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 247
+    "id": 248
   },
   {
     "subject": "ОАИП",
@@ -10177,7 +10218,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 248
+    "id": 249
   },
   {
     "subject": "ОАИП",
@@ -10218,7 +10259,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 249
+    "id": 250
   },
   {
     "subject": "ОАИП",
@@ -10259,7 +10300,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 250
+    "id": 251
   },
   {
     "subject": "ОАИП",
@@ -10300,7 +10341,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 251
+    "id": 252
   },
   {
     "subject": "ОАИП",
@@ -10341,7 +10382,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 252
+    "id": 253
   },
   {
     "subject": "ОАИП",
@@ -10382,7 +10423,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 253
+    "id": 254
   },
   {
     "subject": "ОАИП",
@@ -10423,7 +10464,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 254
+    "id": 255
   },
   {
     "subject": "ОАИП",
@@ -10464,7 +10505,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 255
+    "id": 256
   },
   {
     "subject": "ОАИП",
@@ -10505,7 +10546,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 256
+    "id": 257
   },
   {
     "subject": "ОАИП",
@@ -10546,7 +10587,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 257
+    "id": 258
   },
   {
     "subject": "ОАИП",
@@ -10589,7 +10630,7 @@
       "images/ОАИП/v1_q19_img001.png"
     ],
     "correct_key": "4",
-    "id": 258
+    "id": 259
   },
   {
     "subject": "ОАИП",
@@ -10632,7 +10673,7 @@
       "images/ОАИП/v1_q20_img002.png"
     ],
     "correct_key": "3",
-    "id": 259
+    "id": 260
   },
   {
     "subject": "ОАИП",
@@ -10673,7 +10714,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 260
+    "id": 261
   },
   {
     "subject": "ОАИП",
@@ -10714,7 +10755,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 261
+    "id": 262
   },
   {
     "subject": "ОАИП",
@@ -10755,7 +10796,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 262
+    "id": 263
   },
   {
     "subject": "ОАИП",
@@ -10796,7 +10837,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 263
+    "id": 264
   },
   {
     "subject": "ОАИП",
@@ -10837,7 +10878,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 264
+    "id": 265
   },
   {
     "subject": "ОАИП",
@@ -10878,7 +10919,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 265
+    "id": 266
   },
   {
     "subject": "ОАИП",
@@ -10919,7 +10960,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 266
+    "id": 267
   },
   {
     "subject": "ОАИП",
@@ -10960,7 +11001,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 267
+    "id": 268
   },
   {
     "subject": "ОАИП",
@@ -11001,7 +11042,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 268
+    "id": 269
   },
   {
     "subject": "ОАИП",
@@ -11042,7 +11083,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 269
+    "id": 270
   },
   {
     "subject": "ОАИП",
@@ -11083,7 +11124,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 270
+    "id": 271
   },
   {
     "subject": "ОАИП",
@@ -11124,7 +11165,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 271
+    "id": 272
   },
   {
     "subject": "ОАИП",
@@ -11165,7 +11206,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 272
+    "id": 273
   },
   {
     "subject": "ОАИП",
@@ -11206,7 +11247,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 273
+    "id": 274
   },
   {
     "subject": "ОАИП",
@@ -11247,7 +11288,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 274
+    "id": 275
   },
   {
     "subject": "ОАИП",
@@ -11288,7 +11329,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 275
+    "id": 276
   },
   {
     "subject": "ОАИП",
@@ -11329,7 +11370,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 276
+    "id": 277
   },
   {
     "subject": "ОАИП",
@@ -11372,7 +11413,7 @@
       "images/ОАИП/v10_q18_img003.png"
     ],
     "correct_key": "4",
-    "id": 277
+    "id": 278
   },
   {
     "subject": "ОАИП",
@@ -11415,12 +11456,12 @@
       "images/ОАИП/v10_q19_img004.png"
     ],
     "correct_key": "4",
-    "id": 278
+    "id": 279
   },
   {
     "subject": "ОАИП",
     "variant": 10,
-    "number": 19,
+    "number": 20,
     "question": "Дан алгоритм в виде блок-схемы. Найти A, B, C, D, если изначально: A=0, B=0, C=5, D=10.",
     "options": [
       {
@@ -11455,10 +11496,10 @@
       }
     ],
     "images": [
-      "images/ОАИП/v10_q19_img005.png"
+      "images/ОАИП/v10_q20_img005.png"
     ],
     "correct_key": "5",
-    "id": 279
+    "id": 280
   },
   {
     "subject": "ОАИП",
@@ -11499,7 +11540,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 280
+    "id": 281
   },
   {
     "subject": "ОАИП",
@@ -11540,7 +11581,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 281
+    "id": 282
   },
   {
     "subject": "ОАИП",
@@ -11581,7 +11622,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 282
+    "id": 283
   },
   {
     "subject": "ОАИП",
@@ -11622,7 +11663,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 283
+    "id": 284
   },
   {
     "subject": "ОАИП",
@@ -11663,7 +11704,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 284
+    "id": 285
   },
   {
     "subject": "ОАИП",
@@ -11704,7 +11745,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 285
+    "id": 286
   },
   {
     "subject": "ОАИП",
@@ -11745,7 +11786,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 286
+    "id": 287
   },
   {
     "subject": "ОАИП",
@@ -11786,7 +11827,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 287
+    "id": 288
   },
   {
     "subject": "ОАИП",
@@ -11827,7 +11868,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 288
+    "id": 289
   },
   {
     "subject": "ОАИП",
@@ -11868,7 +11909,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 289
+    "id": 290
   },
   {
     "subject": "ОАИП",
@@ -11909,7 +11950,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 290
+    "id": 291
   },
   {
     "subject": "ОАИП",
@@ -11950,7 +11991,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 291
+    "id": 292
   },
   {
     "subject": "ОАИП",
@@ -11991,7 +12032,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 292
+    "id": 293
   },
   {
     "subject": "ОАИП",
@@ -12032,7 +12073,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 293
+    "id": 294
   },
   {
     "subject": "ОАИП",
@@ -12073,7 +12114,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 294
+    "id": 295
   },
   {
     "subject": "ОАИП",
@@ -12114,7 +12155,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 295
+    "id": 296
   },
   {
     "subject": "ОАИП",
@@ -12155,7 +12196,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 296
+    "id": 297
   },
   {
     "subject": "ОАИП",
@@ -12198,12 +12239,12 @@
       "images/ОАИП/v11_q18_img006.png"
     ],
     "correct_key": "3",
-    "id": 297
+    "id": 298
   },
   {
     "subject": "ОАИП",
     "variant": 11,
-    "number": 18,
+    "number": 19,
     "question": "Какая из предложенных блок-схем является блок-схемой разветвляющегося алгоритма?",
     "options": [
       {
@@ -12238,15 +12279,15 @@
       }
     ],
     "images": [
-      "images/ОАИП/v11_q18_img007.png"
+      "images/ОАИП/v11_q19_img007.png"
     ],
     "correct_key": "2",
-    "id": 298
+    "id": 299
   },
   {
     "subject": "ОАИП",
     "variant": 11,
-    "number": 19,
+    "number": 20,
     "question": "Дан алгоритм в виде блок-схемы.\nНайти A, B, C, D, если изначально:\nA=0, B=5, C=0, D=10.",
     "options": [
       {
@@ -12281,10 +12322,10 @@
       }
     ],
     "images": [
-      "images/ОАИП/v11_q19_img008.png"
+      "images/ОАИП/v11_q20_img008.png"
     ],
     "correct_key": "1",
-    "id": 299
+    "id": 300
   },
   {
     "subject": "ОАИП",
@@ -12325,7 +12366,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 300
+    "id": 301
   },
   {
     "subject": "ОАИП",
@@ -12366,7 +12407,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 301
+    "id": 302
   },
   {
     "subject": "ОАИП",
@@ -12407,7 +12448,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 302
+    "id": 303
   },
   {
     "subject": "ОАИП",
@@ -12448,7 +12489,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 303
+    "id": 304
   },
   {
     "subject": "ОАИП",
@@ -12489,7 +12530,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 304
+    "id": 305
   },
   {
     "subject": "ОАИП",
@@ -12530,7 +12571,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 305
+    "id": 306
   },
   {
     "subject": "ОАИП",
@@ -12571,7 +12612,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 306
+    "id": 307
   },
   {
     "subject": "ОАИП",
@@ -12612,7 +12653,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 307
+    "id": 308
   },
   {
     "subject": "ОАИП",
@@ -12653,7 +12694,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 308
+    "id": 309
   },
   {
     "subject": "ОАИП",
@@ -12694,7 +12735,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 309
+    "id": 310
   },
   {
     "subject": "ОАИП",
@@ -12735,7 +12776,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 310
+    "id": 311
   },
   {
     "subject": "ОАИП",
@@ -12776,7 +12817,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 311
+    "id": 312
   },
   {
     "subject": "ОАИП",
@@ -12817,7 +12858,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 312
+    "id": 313
   },
   {
     "subject": "ОАИП",
@@ -12858,7 +12899,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 313
+    "id": 314
   },
   {
     "subject": "ОАИП",
@@ -12899,7 +12940,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 314
+    "id": 315
   },
   {
     "subject": "ОАИП",
@@ -12940,7 +12981,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 315
+    "id": 316
   },
   {
     "subject": "ОАИП",
@@ -12981,7 +13022,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 316
+    "id": 317
   },
   {
     "subject": "ОАИП",
@@ -13024,7 +13065,7 @@
       "images/ОАИП/v12_q18_img009.png"
     ],
     "correct_key": "4",
-    "id": 317
+    "id": 318
   },
   {
     "subject": "ОАИП",
@@ -13067,7 +13108,7 @@
       "images/ОАИП/v12_q19_img010.png"
     ],
     "correct_key": "5",
-    "id": 318
+    "id": 319
   },
   {
     "subject": "ОАИП",
@@ -13110,7 +13151,7 @@
       "images/ОАИП/v12_q20_img011.png"
     ],
     "correct_key": "2",
-    "id": 319
+    "id": 320
   },
   {
     "subject": "ОАИП",
@@ -13151,7 +13192,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 320
+    "id": 321
   },
   {
     "subject": "ОАИП",
@@ -13192,7 +13233,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 321
+    "id": 322
   },
   {
     "subject": "ОАИП",
@@ -13233,7 +13274,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 322
+    "id": 323
   },
   {
     "subject": "ОАИП",
@@ -13274,7 +13315,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 323
+    "id": 324
   },
   {
     "subject": "ОАИП",
@@ -13315,7 +13356,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 324
+    "id": 325
   },
   {
     "subject": "ОАИП",
@@ -13356,7 +13397,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 325
+    "id": 326
   },
   {
     "subject": "ОАИП",
@@ -13397,7 +13438,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 326
+    "id": 327
   },
   {
     "subject": "ОАИП",
@@ -13438,7 +13479,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 327
+    "id": 328
   },
   {
     "subject": "ОАИП",
@@ -13479,7 +13520,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 328
+    "id": 329
   },
   {
     "subject": "ОАИП",
@@ -13520,7 +13561,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 329
+    "id": 330
   },
   {
     "subject": "ОАИП",
@@ -13561,7 +13602,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 330
+    "id": 331
   },
   {
     "subject": "ОАИП",
@@ -13602,7 +13643,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 331
+    "id": 332
   },
   {
     "subject": "ОАИП",
@@ -13643,7 +13684,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 332
+    "id": 333
   },
   {
     "subject": "ОАИП",
@@ -13684,7 +13725,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 333
+    "id": 334
   },
   {
     "subject": "ОАИП",
@@ -13725,7 +13766,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 334
+    "id": 335
   },
   {
     "subject": "ОАИП",
@@ -13766,7 +13807,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 335
+    "id": 336
   },
   {
     "subject": "ОАИП",
@@ -13807,7 +13848,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 336
+    "id": 337
   },
   {
     "subject": "ОАИП",
@@ -13848,7 +13889,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 337
+    "id": 338
   },
   {
     "subject": "ОАИП",
@@ -13891,7 +13932,7 @@
       "images/ОАИП/v2_q19_img012.png"
     ],
     "correct_key": "1",
-    "id": 338
+    "id": 339
   },
   {
     "subject": "ОАИП",
@@ -13934,7 +13975,7 @@
       "images/ОАИП/v2_q20_img013.png"
     ],
     "correct_key": "4",
-    "id": 339
+    "id": 340
   },
   {
     "subject": "ОАИП",
@@ -13975,7 +14016,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 340
+    "id": 341
   },
   {
     "subject": "ОАИП",
@@ -14016,7 +14057,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 341
+    "id": 342
   },
   {
     "subject": "ОАИП",
@@ -14057,7 +14098,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 342
+    "id": 343
   },
   {
     "subject": "ОАИП",
@@ -14098,7 +14139,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 343
+    "id": 344
   },
   {
     "subject": "ОАИП",
@@ -14139,7 +14180,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 344
+    "id": 345
   },
   {
     "subject": "ОАИП",
@@ -14180,7 +14221,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 345
+    "id": 346
   },
   {
     "subject": "ОАИП",
@@ -14221,7 +14262,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 346
+    "id": 347
   },
   {
     "subject": "ОАИП",
@@ -14262,7 +14303,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 347
+    "id": 348
   },
   {
     "subject": "ОАИП",
@@ -14303,7 +14344,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 348
+    "id": 349
   },
   {
     "subject": "ОАИП",
@@ -14344,7 +14385,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 349
+    "id": 350
   },
   {
     "subject": "ОАИП",
@@ -14385,7 +14426,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 350
+    "id": 351
   },
   {
     "subject": "ОАИП",
@@ -14426,7 +14467,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 351
+    "id": 352
   },
   {
     "subject": "ОАИП",
@@ -14467,7 +14508,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 352
+    "id": 353
   },
   {
     "subject": "ОАИП",
@@ -14508,7 +14549,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 353
+    "id": 354
   },
   {
     "subject": "ОАИП",
@@ -14549,7 +14590,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 354
+    "id": 355
   },
   {
     "subject": "ОАИП",
@@ -14590,7 +14631,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 355
+    "id": 356
   },
   {
     "subject": "ОАИП",
@@ -14631,7 +14672,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 356
+    "id": 357
   },
   {
     "subject": "ОАИП",
@@ -14672,7 +14713,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 357
+    "id": 358
   },
   {
     "subject": "ОАИП",
@@ -14715,7 +14756,7 @@
       "images/ОАИП/v3_q19_img014.png"
     ],
     "correct_key": "5",
-    "id": 358
+    "id": 359
   },
   {
     "subject": "ОАИП",
@@ -14758,7 +14799,7 @@
       "images/ОАИП/v3_q20_img015.png"
     ],
     "correct_key": "1",
-    "id": 359
+    "id": 360
   },
   {
     "subject": "ОАИП",
@@ -14799,7 +14840,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 360
+    "id": 361
   },
   {
     "subject": "ОАИП",
@@ -14840,7 +14881,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 361
+    "id": 362
   },
   {
     "subject": "ОАИП",
@@ -14881,7 +14922,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 362
+    "id": 363
   },
   {
     "subject": "ОАИП",
@@ -14922,7 +14963,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 363
+    "id": 364
   },
   {
     "subject": "ОАИП",
@@ -14963,7 +15004,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 364
+    "id": 365
   },
   {
     "subject": "ОАИП",
@@ -15004,7 +15045,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 365
+    "id": 366
   },
   {
     "subject": "ОАИП",
@@ -15045,7 +15086,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 366
+    "id": 367
   },
   {
     "subject": "ОАИП",
@@ -15086,7 +15127,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 367
+    "id": 368
   },
   {
     "subject": "ОАИП",
@@ -15127,7 +15168,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 368
+    "id": 369
   },
   {
     "subject": "ОАИП",
@@ -15168,7 +15209,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 369
+    "id": 370
   },
   {
     "subject": "ОАИП",
@@ -15209,7 +15250,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 370
+    "id": 371
   },
   {
     "subject": "ОАИП",
@@ -15250,7 +15291,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 371
+    "id": 372
   },
   {
     "subject": "ОАИП",
@@ -15291,7 +15332,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 372
+    "id": 373
   },
   {
     "subject": "ОАИП",
@@ -15332,7 +15373,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 373
+    "id": 374
   },
   {
     "subject": "ОАИП",
@@ -15373,7 +15414,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 374
+    "id": 375
   },
   {
     "subject": "ОАИП",
@@ -15414,7 +15455,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 375
+    "id": 376
   },
   {
     "subject": "ОАИП",
@@ -15455,7 +15496,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 376
+    "id": 377
   },
   {
     "subject": "ОАИП",
@@ -15496,7 +15537,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 377
+    "id": 378
   },
   {
     "subject": "ОАИП",
@@ -15539,7 +15580,7 @@
       "images/ОАИП/v4_q19_img016.png"
     ],
     "correct_key": "2",
-    "id": 378
+    "id": 379
   },
   {
     "subject": "ОАИП",
@@ -15582,7 +15623,7 @@
       "images/ОАИП/v4_q20_img017.png"
     ],
     "correct_key": "4",
-    "id": 379
+    "id": 380
   },
   {
     "subject": "ОАИП",
@@ -15623,7 +15664,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 380
+    "id": 381
   },
   {
     "subject": "ОАИП",
@@ -15664,7 +15705,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 381
+    "id": 382
   },
   {
     "subject": "ОАИП",
@@ -15705,7 +15746,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 382
+    "id": 383
   },
   {
     "subject": "ОАИП",
@@ -15746,7 +15787,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 383
+    "id": 384
   },
   {
     "subject": "ОАИП",
@@ -15787,7 +15828,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 384
+    "id": 385
   },
   {
     "subject": "ОАИП",
@@ -15828,7 +15869,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 385
+    "id": 386
   },
   {
     "subject": "ОАИП",
@@ -15869,7 +15910,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 386
+    "id": 387
   },
   {
     "subject": "ОАИП",
@@ -15910,7 +15951,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 387
+    "id": 388
   },
   {
     "subject": "ОАИП",
@@ -15951,7 +15992,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 388
+    "id": 389
   },
   {
     "subject": "ОАИП",
@@ -15992,7 +16033,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 389
+    "id": 390
   },
   {
     "subject": "ОАИП",
@@ -16033,7 +16074,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 390
+    "id": 391
   },
   {
     "subject": "ОАИП",
@@ -16074,7 +16115,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 391
+    "id": 392
   },
   {
     "subject": "ОАИП",
@@ -16115,7 +16156,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 392
+    "id": 393
   },
   {
     "subject": "ОАИП",
@@ -16156,7 +16197,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 393
+    "id": 394
   },
   {
     "subject": "ОАИП",
@@ -16197,7 +16238,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 394
+    "id": 395
   },
   {
     "subject": "ОАИП",
@@ -16238,7 +16279,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 395
+    "id": 396
   },
   {
     "subject": "ОАИП",
@@ -16279,7 +16320,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 396
+    "id": 397
   },
   {
     "subject": "ОАИП",
@@ -16320,7 +16361,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 397
+    "id": 398
   },
   {
     "subject": "ОАИП",
@@ -16363,7 +16404,7 @@
       "images/ОАИП/v5_q19_img018.png"
     ],
     "correct_key": "5",
-    "id": 398
+    "id": 399
   },
   {
     "subject": "ОАИП",
@@ -16406,7 +16447,7 @@
       "images/ОАИП/v5_q20_img019.png"
     ],
     "correct_key": "1",
-    "id": 399
+    "id": 400
   },
   {
     "subject": "ОАИП",
@@ -16447,7 +16488,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 400
+    "id": 401
   },
   {
     "subject": "ОАИП",
@@ -16488,7 +16529,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 401
+    "id": 402
   },
   {
     "subject": "ОАИП",
@@ -16529,7 +16570,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 402
+    "id": 403
   },
   {
     "subject": "ОАИП",
@@ -16570,7 +16611,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 403
+    "id": 404
   },
   {
     "subject": "ОАИП",
@@ -16611,7 +16652,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 404
+    "id": 405
   },
   {
     "subject": "ОАИП",
@@ -16652,7 +16693,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 405
+    "id": 406
   },
   {
     "subject": "ОАИП",
@@ -16693,7 +16734,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 406
+    "id": 407
   },
   {
     "subject": "ОАИП",
@@ -16734,7 +16775,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 407
+    "id": 408
   },
   {
     "subject": "ОАИП",
@@ -16775,7 +16816,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 408
+    "id": 409
   },
   {
     "subject": "ОАИП",
@@ -16816,7 +16857,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 409
+    "id": 410
   },
   {
     "subject": "ОАИП",
@@ -16857,7 +16898,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 410
+    "id": 411
   },
   {
     "subject": "ОАИП",
@@ -16898,7 +16939,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 411
+    "id": 412
   },
   {
     "subject": "ОАИП",
@@ -16939,7 +16980,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 412
+    "id": 413
   },
   {
     "subject": "ОАИП",
@@ -16980,7 +17021,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 413
+    "id": 414
   },
   {
     "subject": "ОАИП",
@@ -17021,7 +17062,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 414
+    "id": 415
   },
   {
     "subject": "ОАИП",
@@ -17062,7 +17103,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 415
+    "id": 416
   },
   {
     "subject": "ОАИП",
@@ -17103,7 +17144,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 416
+    "id": 417
   },
   {
     "subject": "ОАИП",
@@ -17144,7 +17185,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 417
+    "id": 418
   },
   {
     "subject": "ОАИП",
@@ -17187,7 +17228,7 @@
       "images/ОАИП/v6_q19_img020.png"
     ],
     "correct_key": "4",
-    "id": 418
+    "id": 419
   },
   {
     "subject": "ОАИП",
@@ -17230,7 +17271,7 @@
       "images/ОАИП/v6_q20_img021.png"
     ],
     "correct_key": "2",
-    "id": 419
+    "id": 420
   },
   {
     "subject": "ОАИП",
@@ -17271,7 +17312,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 420
+    "id": 421
   },
   {
     "subject": "ОАИП",
@@ -17312,7 +17353,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 421
+    "id": 422
   },
   {
     "subject": "ОАИП",
@@ -17353,7 +17394,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 422
+    "id": 423
   },
   {
     "subject": "ОАИП",
@@ -17394,7 +17435,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 423
+    "id": 424
   },
   {
     "subject": "ОАИП",
@@ -17435,7 +17476,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 424
+    "id": 425
   },
   {
     "subject": "ОАИП",
@@ -17476,7 +17517,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 425
+    "id": 426
   },
   {
     "subject": "ОАИП",
@@ -17517,7 +17558,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 426
+    "id": 427
   },
   {
     "subject": "ОАИП",
@@ -17558,7 +17599,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 427
+    "id": 428
   },
   {
     "subject": "ОАИП",
@@ -17599,7 +17640,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 428
+    "id": 429
   },
   {
     "subject": "ОАИП",
@@ -17640,7 +17681,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 429
+    "id": 430
   },
   {
     "subject": "ОАИП",
@@ -17681,7 +17722,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 430
+    "id": 431
   },
   {
     "subject": "ОАИП",
@@ -17722,7 +17763,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 431
+    "id": 432
   },
   {
     "subject": "ОАИП",
@@ -17763,7 +17804,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 432
+    "id": 433
   },
   {
     "subject": "ОАИП",
@@ -17804,7 +17845,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 433
+    "id": 434
   },
   {
     "subject": "ОАИП",
@@ -17845,7 +17886,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 434
+    "id": 435
   },
   {
     "subject": "ОАИП",
@@ -17886,7 +17927,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 435
+    "id": 436
   },
   {
     "subject": "ОАИП",
@@ -17927,7 +17968,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 436
+    "id": 437
   },
   {
     "subject": "ОАИП",
@@ -17970,7 +18011,7 @@
       "images/ОАИП/v7_q18_img022.png"
     ],
     "correct_key": "2",
-    "id": 437
+    "id": 438
   },
   {
     "subject": "ОАИП",
@@ -18013,7 +18054,7 @@
       "images/ОАИП/v7_q19_img023.png"
     ],
     "correct_key": "1",
-    "id": 438
+    "id": 439
   },
   {
     "subject": "ОАИП",
@@ -18056,7 +18097,7 @@
       "images/ОАИП/v7_q20_img024.png"
     ],
     "correct_key": "1",
-    "id": 439
+    "id": 440
   },
   {
     "subject": "ОАИП",
@@ -18097,7 +18138,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 440
+    "id": 441
   },
   {
     "subject": "ОАИП",
@@ -18138,7 +18179,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 441
+    "id": 442
   },
   {
     "subject": "ОАИП",
@@ -18179,7 +18220,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 442
+    "id": 443
   },
   {
     "subject": "ОАИП",
@@ -18220,7 +18261,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 443
+    "id": 444
   },
   {
     "subject": "ОАИП",
@@ -18261,7 +18302,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 444
+    "id": 445
   },
   {
     "subject": "ОАИП",
@@ -18302,7 +18343,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 445
+    "id": 446
   },
   {
     "subject": "ОАИП",
@@ -18343,7 +18384,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 446
+    "id": 447
   },
   {
     "subject": "ОАИП",
@@ -18384,7 +18425,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 447
+    "id": 448
   },
   {
     "subject": "ОАИП",
@@ -18425,7 +18466,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 448
+    "id": 449
   },
   {
     "subject": "ОАИП",
@@ -18466,7 +18507,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 449
+    "id": 450
   },
   {
     "subject": "ОАИП",
@@ -18507,7 +18548,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 450
+    "id": 451
   },
   {
     "subject": "ОАИП",
@@ -18548,7 +18589,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 451
+    "id": 452
   },
   {
     "subject": "ОАИП",
@@ -18589,7 +18630,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 452
+    "id": 453
   },
   {
     "subject": "ОАИП",
@@ -18630,7 +18671,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 453
+    "id": 454
   },
   {
     "subject": "ОАИП",
@@ -18671,7 +18712,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 454
+    "id": 455
   },
   {
     "subject": "ОАИП",
@@ -18712,7 +18753,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 455
+    "id": 456
   },
   {
     "subject": "ОАИП",
@@ -18753,7 +18794,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 456
+    "id": 457
   },
   {
     "subject": "ОАИП",
@@ -18796,7 +18837,7 @@
       "images/ОАИП/v8_q18_img025.png"
     ],
     "correct_key": "4",
-    "id": 457
+    "id": 458
   },
   {
     "subject": "ОАИП",
@@ -18839,7 +18880,7 @@
       "images/ОАИП/v8_q19_img026.png"
     ],
     "correct_key": "5",
-    "id": 458
+    "id": 459
   },
   {
     "subject": "ОАИП",
@@ -18882,7 +18923,7 @@
       "images/ОАИП/v8_q20_img027.png"
     ],
     "correct_key": "2",
-    "id": 459
+    "id": 460
   },
   {
     "subject": "ОАИП",
@@ -18923,7 +18964,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 460
+    "id": 461
   },
   {
     "subject": "ОАИП",
@@ -18964,7 +19005,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 461
+    "id": 462
   },
   {
     "subject": "ОАИП",
@@ -19005,7 +19046,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 462
+    "id": 463
   },
   {
     "subject": "ОАИП",
@@ -19046,7 +19087,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 463
+    "id": 464
   },
   {
     "subject": "ОАИП",
@@ -19087,7 +19128,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 464
+    "id": 465
   },
   {
     "subject": "ОАИП",
@@ -19128,7 +19169,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 465
+    "id": 466
   },
   {
     "subject": "ОАИП",
@@ -19169,7 +19210,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 466
+    "id": 467
   },
   {
     "subject": "ОАИП",
@@ -19210,7 +19251,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 467
+    "id": 468
   },
   {
     "subject": "ОАИП",
@@ -19251,7 +19292,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 468
+    "id": 469
   },
   {
     "subject": "ОАИП",
@@ -19292,7 +19333,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 469
+    "id": 470
   },
   {
     "subject": "ОАИП",
@@ -19333,7 +19374,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 470
+    "id": 471
   },
   {
     "subject": "ОАИП",
@@ -19374,7 +19415,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 471
+    "id": 472
   },
   {
     "subject": "ОАИП",
@@ -19415,7 +19456,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 472
+    "id": 473
   },
   {
     "subject": "ОАИП",
@@ -19456,7 +19497,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 473
+    "id": 474
   },
   {
     "subject": "ОАИП",
@@ -19497,7 +19538,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 474
+    "id": 475
   },
   {
     "subject": "ОАИП",
@@ -19538,7 +19579,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 475
+    "id": 476
   },
   {
     "subject": "ОАИП",
@@ -19579,7 +19620,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 476
+    "id": 477
   },
   {
     "subject": "ОАИП",
@@ -19622,7 +19663,7 @@
       "images/ОАИП/v9_q18_img028.png"
     ],
     "correct_key": "5",
-    "id": 477
+    "id": 478
   },
   {
     "subject": "ОАИП",
@@ -19665,7 +19706,7 @@
       "images/ОАИП/v9_q19_img029.png"
     ],
     "correct_key": "3",
-    "id": 478
+    "id": 479
   },
   {
     "subject": "ОАИП",
@@ -19708,7 +19749,7 @@
       "images/ОАИП/v9_q20_img030.png"
     ],
     "correct_key": "1",
-    "id": 479
+    "id": 480
   },
   {
     "subject": "ТПО",
@@ -19749,7 +19790,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 480
+    "id": 481
   },
   {
     "subject": "ТПО",
@@ -19790,7 +19831,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 481
+    "id": 482
   },
   {
     "subject": "ТПО",
@@ -19831,7 +19872,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 482
+    "id": 483
   },
   {
     "subject": "ТПО",
@@ -19872,7 +19913,89 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 483
+    "id": 484
+  },
+  {
+    "subject": "ТПО",
+    "variant": 1,
+    "number": 5,
+    "question": "Почему в тест-кейсе нельзя писать «проверьте поле»?",
+    "options": [
+      {
+        "key": "1",
+        "text": "Слово «поле» запрещено в программировании.",
+        "is_correct": false,
+        "images": []
+      },
+      {
+        "key": "2",
+        "text": "Запись не обеспечивает конкретности, воспроизводимости и чёткости, которые являются ключевыми требованиями в тестировании.",
+        "is_correct": true,
+        "images": []
+      },
+      {
+        "key": "3",
+        "text": "Потому что это слишком короткая фраза.",
+        "is_correct": false,
+        "images": []
+      },
+      {
+        "key": "4",
+        "text": "Это занимает слишком много памяти.",
+        "is_correct": false,
+        "images": []
+      },
+      {
+        "key": "5",
+        "text": "Все варианты ответов верны.",
+        "is_correct": false,
+        "images": []
+      }
+    ],
+    "images": [],
+    "correct_key": "2",
+    "id": 485
+  },
+  {
+    "subject": "ТПО",
+    "variant": 1,
+    "number": 6,
+    "question": "Что означает понятие «атомарность тест-кейса»?",
+    "options": [
+      {
+        "key": "1",
+        "text": "Тест-кейс написан на языке физики.",
+        "is_correct": false,
+        "images": []
+      },
+      {
+        "key": "2",
+        "text": "Один тест-кейс проверяет ровно одну конкретную вещь или сценарий.",
+        "is_correct": true,
+        "images": []
+      },
+      {
+        "key": "3",
+        "text": "Тест-кейс проверяет сразу 50 функций одновременно.",
+        "is_correct": false,
+        "images": []
+      },
+      {
+        "key": "4",
+        "text": "Тест-кейс выполняется за 1 секунду.",
+        "is_correct": false,
+        "images": []
+      },
+      {
+        "key": "5",
+        "text": "Тест-кейс состоит из одной буквы.",
+        "is_correct": false,
+        "images": []
+      }
+    ],
+    "images": [],
+    "correct_key": "2",
+    "id": 486
   },
   {
     "subject": "ТПО",
@@ -19913,7 +20036,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 484
+    "id": 487
   },
   {
     "subject": "ТПО",
@@ -19954,7 +20077,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 485
+    "id": 488
   },
   {
     "subject": "ТПО",
@@ -19995,7 +20118,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 486
+    "id": 489
   },
   {
     "subject": "ТПО",
@@ -20036,7 +20159,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 487
+    "id": 490
   },
   {
     "subject": "ТПО",
@@ -20077,7 +20200,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 488
+    "id": 491
   },
   {
     "subject": "ТПО",
@@ -20118,7 +20241,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 489
+    "id": 492
   },
   {
     "subject": "ТПО",
@@ -20159,7 +20282,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 490
+    "id": 493
   },
   {
     "subject": "ТПО",
@@ -20200,7 +20323,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 491
+    "id": 494
   },
   {
     "subject": "ТПО",
@@ -20241,7 +20364,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 492
+    "id": 495
   },
   {
     "subject": "ТПО",
@@ -20282,7 +20405,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 493
+    "id": 496
   },
   {
     "subject": "ТПО",
@@ -20323,7 +20446,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 494
+    "id": 497
   },
   {
     "subject": "ТПО",
@@ -20364,7 +20487,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 495
+    "id": 498
   },
   {
     "subject": "ТПО",
@@ -20407,7 +20530,7 @@
       "images/ТПО/v1_q19_img001.png"
     ],
     "correct_key": "C",
-    "id": 496
+    "id": 499
   },
   {
     "subject": "ТПО",
@@ -20450,7 +20573,7 @@
       "images/ТПО/v1_q20_img002.png"
     ],
     "correct_key": "3",
-    "id": 497
+    "id": 500
   },
   {
     "subject": "ТПО",
@@ -20491,7 +20614,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 498
+    "id": 501
   },
   {
     "subject": "ТПО",
@@ -20532,7 +20655,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 499
+    "id": 502
   },
   {
     "subject": "ТПО",
@@ -20573,7 +20696,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 500
+    "id": 503
   },
   {
     "subject": "ТПО",
@@ -20614,7 +20737,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 501
+    "id": 504
   },
   {
     "subject": "ТПО",
@@ -20655,7 +20778,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 502
+    "id": 505
   },
   {
     "subject": "ТПО",
@@ -20696,7 +20819,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 503
+    "id": 506
   },
   {
     "subject": "ТПО",
@@ -20737,7 +20860,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 504
+    "id": 507
   },
   {
     "subject": "ТПО",
@@ -20778,7 +20901,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 505
+    "id": 508
   },
   {
     "subject": "ТПО",
@@ -20819,7 +20942,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 506
+    "id": 509
   },
   {
     "subject": "ТПО",
@@ -20860,7 +20983,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 507
+    "id": 510
   },
   {
     "subject": "ТПО",
@@ -20901,7 +21024,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 508
+    "id": 511
   },
   {
     "subject": "ТПО",
@@ -20942,7 +21065,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 509
+    "id": 512
   },
   {
     "subject": "ТПО",
@@ -20983,7 +21106,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 510
+    "id": 513
   },
   {
     "subject": "ТПО",
@@ -21024,7 +21147,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 511
+    "id": 514
   },
   {
     "subject": "ТПО",
@@ -21065,7 +21188,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 512
+    "id": 515
   },
   {
     "subject": "ТПО",
@@ -21106,7 +21229,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 513
+    "id": 516
   },
   {
     "subject": "ТПО",
@@ -21147,7 +21270,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 514
+    "id": 517
   },
   {
     "subject": "ТПО",
@@ -21190,7 +21313,7 @@
       "images/ТПО/v10_q18_img003.png"
     ],
     "correct_key": "3",
-    "id": 515
+    "id": 518
   },
   {
     "subject": "ТПО",
@@ -21233,7 +21356,7 @@
       "images/ТПО/v10_q19_img004.png"
     ],
     "correct_key": "3",
-    "id": 516
+    "id": 519
   },
   {
     "subject": "ТПО",
@@ -21276,7 +21399,7 @@
       "images/ТПО/v10_q20_img005.png"
     ],
     "correct_key": "2",
-    "id": 517
+    "id": 520
   },
   {
     "subject": "ТПО",
@@ -21317,7 +21440,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 518
+    "id": 521
   },
   {
     "subject": "ТПО",
@@ -21358,7 +21481,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 519
+    "id": 522
   },
   {
     "subject": "ТПО",
@@ -21399,7 +21522,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 520
+    "id": 523
   },
   {
     "subject": "ТПО",
@@ -21440,7 +21563,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 521
+    "id": 524
   },
   {
     "subject": "ТПО",
@@ -21481,7 +21604,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 522
+    "id": 525
   },
   {
     "subject": "ТПО",
@@ -21522,7 +21645,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 523
+    "id": 526
   },
   {
     "subject": "ТПО",
@@ -21563,7 +21686,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 524
+    "id": 527
   },
   {
     "subject": "ТПО",
@@ -21604,7 +21727,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 525
+    "id": 528
   },
   {
     "subject": "ТПО",
@@ -21645,7 +21768,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 526
+    "id": 529
   },
   {
     "subject": "ТПО",
@@ -21686,7 +21809,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 527
+    "id": 530
   },
   {
     "subject": "ТПО",
@@ -21727,7 +21850,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 528
+    "id": 531
   },
   {
     "subject": "ТПО",
@@ -21768,7 +21891,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 529
+    "id": 532
   },
   {
     "subject": "ТПО",
@@ -21809,7 +21932,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 530
+    "id": 533
   },
   {
     "subject": "ТПО",
@@ -21850,7 +21973,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 531
+    "id": 534
   },
   {
     "subject": "ТПО",
@@ -21891,7 +22014,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 532
+    "id": 535
   },
   {
     "subject": "ТПО",
@@ -21932,7 +22055,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 533
+    "id": 536
   },
   {
     "subject": "ТПО",
@@ -21973,7 +22096,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 534
+    "id": 537
   },
   {
     "subject": "ТПО",
@@ -22016,7 +22139,7 @@
       "images/ТПО/v11_q18_img006.png"
     ],
     "correct_key": "3",
-    "id": 535
+    "id": 538
   },
   {
     "subject": "ТПО",
@@ -22059,7 +22182,7 @@
       "images/ТПО/v11_q19_img007.png"
     ],
     "correct_key": "2",
-    "id": 536
+    "id": 539
   },
   {
     "subject": "ТПО",
@@ -22102,7 +22225,7 @@
       "images/ТПО/v11_q20_img008.png"
     ],
     "correct_key": "1",
-    "id": 537
+    "id": 540
   },
   {
     "subject": "ТПО",
@@ -22143,7 +22266,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 538
+    "id": 541
   },
   {
     "subject": "ТПО",
@@ -22184,7 +22307,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 539
+    "id": 542
   },
   {
     "subject": "ТПО",
@@ -22225,7 +22348,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 540
+    "id": 543
   },
   {
     "subject": "ТПО",
@@ -22266,7 +22389,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 541
+    "id": 544
   },
   {
     "subject": "ТПО",
@@ -22307,7 +22430,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 542
+    "id": 545
   },
   {
     "subject": "ТПО",
@@ -22348,7 +22471,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 543
+    "id": 546
   },
   {
     "subject": "ТПО",
@@ -22389,7 +22512,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 544
+    "id": 547
   },
   {
     "subject": "ТПО",
@@ -22430,7 +22553,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 545
+    "id": 548
   },
   {
     "subject": "ТПО",
@@ -22471,7 +22594,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 546
+    "id": 549
   },
   {
     "subject": "ТПО",
@@ -22512,7 +22635,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 547
+    "id": 550
   },
   {
     "subject": "ТПО",
@@ -22553,7 +22676,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 548
+    "id": 551
   },
   {
     "subject": "ТПО",
@@ -22594,7 +22717,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 549
+    "id": 552
   },
   {
     "subject": "ТПО",
@@ -22635,7 +22758,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 550
+    "id": 553
   },
   {
     "subject": "ТПО",
@@ -22676,7 +22799,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 551
+    "id": 554
   },
   {
     "subject": "ТПО",
@@ -22717,7 +22840,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 552
+    "id": 555
   },
   {
     "subject": "ТПО",
@@ -22758,7 +22881,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 553
+    "id": 556
   },
   {
     "subject": "ТПО",
@@ -22799,7 +22922,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 554
+    "id": 557
   },
   {
     "subject": "ТПО",
@@ -22842,7 +22965,7 @@
       "images/ТПО/v12_q18_img009.png"
     ],
     "correct_key": "5",
-    "id": 555
+    "id": 558
   },
   {
     "subject": "ТПО",
@@ -22885,7 +23008,7 @@
       "images/ТПО/v12_q19_img010.png"
     ],
     "correct_key": "5",
-    "id": 556
+    "id": 559
   },
   {
     "subject": "ТПО",
@@ -22928,7 +23051,7 @@
       "images/ТПО/v12_q20_img011.png"
     ],
     "correct_key": "2",
-    "id": 557
+    "id": 560
   },
   {
     "subject": "ТПО",
@@ -22969,7 +23092,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 558
+    "id": 561
   },
   {
     "subject": "ТПО",
@@ -23010,7 +23133,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 559
+    "id": 562
   },
   {
     "subject": "ТПО",
@@ -23051,7 +23174,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 560
+    "id": 563
   },
   {
     "subject": "ТПО",
@@ -23092,7 +23215,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 561
+    "id": 564
   },
   {
     "subject": "ТПО",
@@ -23133,7 +23256,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 562
+    "id": 565
   },
   {
     "subject": "ТПО",
@@ -23174,7 +23297,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 563
+    "id": 566
   },
   {
     "subject": "ТПО",
@@ -23215,7 +23338,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 564
+    "id": 567
   },
   {
     "subject": "ТПО",
@@ -23256,7 +23379,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 565
+    "id": 568
   },
   {
     "subject": "ТПО",
@@ -23297,7 +23420,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 566
+    "id": 569
   },
   {
     "subject": "ТПО",
@@ -23338,7 +23461,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 567
+    "id": 570
   },
   {
     "subject": "ТПО",
@@ -23379,7 +23502,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 568
+    "id": 571
   },
   {
     "subject": "ТПО",
@@ -23420,7 +23543,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 569
+    "id": 572
   },
   {
     "subject": "ТПО",
@@ -23461,7 +23584,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 570
+    "id": 573
   },
   {
     "subject": "ТПО",
@@ -23502,7 +23625,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 571
+    "id": 574
   },
   {
     "subject": "ТПО",
@@ -23543,7 +23666,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 572
+    "id": 575
   },
   {
     "subject": "ТПО",
@@ -23584,7 +23707,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 573
+    "id": 576
   },
   {
     "subject": "ТПО",
@@ -23625,7 +23748,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 574
+    "id": 577
   },
   {
     "subject": "ТПО",
@@ -23666,7 +23789,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 575
+    "id": 578
   },
   {
     "subject": "ТПО",
@@ -23709,7 +23832,7 @@
       "images/ТПО/v2_q19_img012.png"
     ],
     "correct_key": "1",
-    "id": 576
+    "id": 579
   },
   {
     "subject": "ТПО",
@@ -23752,7 +23875,7 @@
       "images/ТПО/v2_q20_img013.png"
     ],
     "correct_key": "3",
-    "id": 577
+    "id": 580
   },
   {
     "subject": "ТПО",
@@ -23793,7 +23916,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 578
+    "id": 581
   },
   {
     "subject": "ТПО",
@@ -23834,7 +23957,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 579
+    "id": 582
   },
   {
     "subject": "ТПО",
@@ -23875,7 +23998,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 580
+    "id": 583
   },
   {
     "subject": "ТПО",
@@ -23916,7 +24039,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 581
+    "id": 584
   },
   {
     "subject": "ТПО",
@@ -23957,7 +24080,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 582
+    "id": 585
   },
   {
     "subject": "ТПО",
@@ -23998,7 +24121,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 583
+    "id": 586
   },
   {
     "subject": "ТПО",
@@ -24039,7 +24162,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 584
+    "id": 587
   },
   {
     "subject": "ТПО",
@@ -24080,7 +24203,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 585
+    "id": 588
   },
   {
     "subject": "ТПО",
@@ -24121,7 +24244,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 586
+    "id": 589
   },
   {
     "subject": "ТПО",
@@ -24162,7 +24285,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 587
+    "id": 590
   },
   {
     "subject": "ТПО",
@@ -24203,7 +24326,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 588
+    "id": 591
   },
   {
     "subject": "ТПО",
@@ -24244,7 +24367,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 589
+    "id": 592
   },
   {
     "subject": "ТПО",
@@ -24285,7 +24408,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 590
+    "id": 593
   },
   {
     "subject": "ТПО",
@@ -24326,7 +24449,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 591
+    "id": 594
   },
   {
     "subject": "ТПО",
@@ -24367,7 +24490,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 592
+    "id": 595
   },
   {
     "subject": "ТПО",
@@ -24408,7 +24531,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 593
+    "id": 596
   },
   {
     "subject": "ТПО",
@@ -24449,7 +24572,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 594
+    "id": 597
   },
   {
     "subject": "ТПО",
@@ -24490,7 +24613,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 595
+    "id": 598
   },
   {
     "subject": "ТПО",
@@ -24533,7 +24656,7 @@
       "images/ТПО/v3_q19_img014.png"
     ],
     "correct_key": "3",
-    "id": 596
+    "id": 599
   },
   {
     "subject": "ТПО",
@@ -24576,7 +24699,7 @@
       "images/ТПО/v3_q20_img015.png"
     ],
     "correct_key": "1",
-    "id": 597
+    "id": 600
   },
   {
     "subject": "ТПО",
@@ -24617,7 +24740,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 598
+    "id": 601
   },
   {
     "subject": "ТПО",
@@ -24658,7 +24781,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 599
+    "id": 602
   },
   {
     "subject": "ТПО",
@@ -24699,7 +24822,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 600
+    "id": 603
   },
   {
     "subject": "ТПО",
@@ -24740,7 +24863,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 601
+    "id": 604
   },
   {
     "subject": "ТПО",
@@ -24781,7 +24904,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 602
+    "id": 605
   },
   {
     "subject": "ТПО",
@@ -24822,7 +24945,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 603
+    "id": 606
   },
   {
     "subject": "ТПО",
@@ -24863,7 +24986,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 604
+    "id": 607
   },
   {
     "subject": "ТПО",
@@ -24904,7 +25027,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 605
+    "id": 608
   },
   {
     "subject": "ТПО",
@@ -24945,7 +25068,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 606
+    "id": 609
   },
   {
     "subject": "ТПО",
@@ -24986,7 +25109,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 607
+    "id": 610
   },
   {
     "subject": "ТПО",
@@ -25027,7 +25150,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 608
+    "id": 611
   },
   {
     "subject": "ТПО",
@@ -25068,7 +25191,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 609
+    "id": 612
   },
   {
     "subject": "ТПО",
@@ -25109,7 +25232,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 610
+    "id": 613
   },
   {
     "subject": "ТПО",
@@ -25150,7 +25273,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 611
+    "id": 614
   },
   {
     "subject": "ТПО",
@@ -25191,7 +25314,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 612
+    "id": 615
   },
   {
     "subject": "ТПО",
@@ -25232,7 +25355,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 613
+    "id": 616
   },
   {
     "subject": "ТПО",
@@ -25273,7 +25396,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 614
+    "id": 617
   },
   {
     "subject": "ТПО",
@@ -25314,7 +25437,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 615
+    "id": 618
   },
   {
     "subject": "ТПО",
@@ -25357,7 +25480,7 @@
       "images/ТПО/v4_q19_img016.png"
     ],
     "correct_key": "4",
-    "id": 616
+    "id": 619
   },
   {
     "subject": "ТПО",
@@ -25400,7 +25523,7 @@
       "images/ТПО/v4_q20_img017.png"
     ],
     "correct_key": "4",
-    "id": 617
+    "id": 620
   },
   {
     "subject": "ТПО",
@@ -25441,7 +25564,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 618
+    "id": 621
   },
   {
     "subject": "ТПО",
@@ -25482,7 +25605,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 619
+    "id": 622
   },
   {
     "subject": "ТПО",
@@ -25523,7 +25646,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 620
+    "id": 623
   },
   {
     "subject": "ТПО",
@@ -25564,7 +25687,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 621
+    "id": 624
   },
   {
     "subject": "ТПО",
@@ -25605,7 +25728,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 622
+    "id": 625
   },
   {
     "subject": "ТПО",
@@ -25646,7 +25769,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 623
+    "id": 626
   },
   {
     "subject": "ТПО",
@@ -25687,7 +25810,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 624
+    "id": 627
   },
   {
     "subject": "ТПО",
@@ -25728,7 +25851,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 625
+    "id": 628
   },
   {
     "subject": "ТПО",
@@ -25769,7 +25892,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 626
+    "id": 629
   },
   {
     "subject": "ТПО",
@@ -25810,7 +25933,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 627
+    "id": 630
   },
   {
     "subject": "ТПО",
@@ -25851,7 +25974,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 628
+    "id": 631
   },
   {
     "subject": "ТПО",
@@ -25892,7 +26015,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 629
+    "id": 632
   },
   {
     "subject": "ТПО",
@@ -25933,7 +26056,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 630
+    "id": 633
   },
   {
     "subject": "ТПО",
@@ -25974,7 +26097,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 631
+    "id": 634
   },
   {
     "subject": "ТПО",
@@ -26015,7 +26138,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 632
+    "id": 635
   },
   {
     "subject": "ТПО",
@@ -26056,7 +26179,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 633
+    "id": 636
   },
   {
     "subject": "ТПО",
@@ -26097,7 +26220,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 634
+    "id": 637
   },
   {
     "subject": "ТПО",
@@ -26138,7 +26261,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 635
+    "id": 638
   },
   {
     "subject": "ТПО",
@@ -26181,7 +26304,7 @@
       "images/ТПО/v5_q19_img018.png"
     ],
     "correct_key": "4",
-    "id": 636
+    "id": 639
   },
   {
     "subject": "ТПО",
@@ -26224,7 +26347,7 @@
       "images/ТПО/v5_q20_img019.png"
     ],
     "correct_key": "3",
-    "id": 637
+    "id": 640
   },
   {
     "subject": "ТПО",
@@ -26265,7 +26388,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 638
+    "id": 641
   },
   {
     "subject": "ТПО",
@@ -26306,7 +26429,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 639
+    "id": 642
   },
   {
     "subject": "ТПО",
@@ -26347,7 +26470,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 640
+    "id": 643
   },
   {
     "subject": "ТПО",
@@ -26388,7 +26511,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 641
+    "id": 644
   },
   {
     "subject": "ТПО",
@@ -26429,7 +26552,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 642
+    "id": 645
   },
   {
     "subject": "ТПО",
@@ -26470,7 +26593,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 643
+    "id": 646
   },
   {
     "subject": "ТПО",
@@ -26511,7 +26634,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 644
+    "id": 647
   },
   {
     "subject": "ТПО",
@@ -26552,7 +26675,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 645
+    "id": 648
   },
   {
     "subject": "ТПО",
@@ -26593,7 +26716,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 646
+    "id": 649
   },
   {
     "subject": "ТПО",
@@ -26634,7 +26757,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 647
+    "id": 650
   },
   {
     "subject": "ТПО",
@@ -26675,7 +26798,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 648
+    "id": 651
   },
   {
     "subject": "ТПО",
@@ -26716,7 +26839,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 649
+    "id": 652
   },
   {
     "subject": "ТПО",
@@ -26757,7 +26880,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 650
+    "id": 653
   },
   {
     "subject": "ТПО",
@@ -26798,7 +26921,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 651
+    "id": 654
   },
   {
     "subject": "ТПО",
@@ -26839,7 +26962,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 652
+    "id": 655
   },
   {
     "subject": "ТПО",
@@ -26880,7 +27003,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 653
+    "id": 656
   },
   {
     "subject": "ТПО",
@@ -26921,7 +27044,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 654
+    "id": 657
   },
   {
     "subject": "ТПО",
@@ -26962,7 +27085,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 655
+    "id": 658
   },
   {
     "subject": "ТПО",
@@ -27005,7 +27128,7 @@
       "images/ТПО/v6_q19_img020.png"
     ],
     "correct_key": "2",
-    "id": 656
+    "id": 659
   },
   {
     "subject": "ТПО",
@@ -27048,7 +27171,7 @@
       "images/ТПО/v6_q20_img021.png"
     ],
     "correct_key": "5",
-    "id": 657
+    "id": 660
   },
   {
     "subject": "ТПО",
@@ -27089,7 +27212,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 658
+    "id": 661
   },
   {
     "subject": "ТПО",
@@ -27130,7 +27253,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 659
+    "id": 662
   },
   {
     "subject": "ТПО",
@@ -27171,7 +27294,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 660
+    "id": 663
   },
   {
     "subject": "ТПО",
@@ -27212,7 +27335,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 661
+    "id": 664
   },
   {
     "subject": "ТПО",
@@ -27253,7 +27376,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 662
+    "id": 665
   },
   {
     "subject": "ТПО",
@@ -27294,7 +27417,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 663
+    "id": 666
   },
   {
     "subject": "ТПО",
@@ -27335,7 +27458,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 664
+    "id": 667
   },
   {
     "subject": "ТПО",
@@ -27376,7 +27499,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 665
+    "id": 668
   },
   {
     "subject": "ТПО",
@@ -27417,7 +27540,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 666
+    "id": 669
   },
   {
     "subject": "ТПО",
@@ -27458,7 +27581,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 667
+    "id": 670
   },
   {
     "subject": "ТПО",
@@ -27499,7 +27622,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 668
+    "id": 671
   },
   {
     "subject": "ТПО",
@@ -27540,7 +27663,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 669
+    "id": 672
   },
   {
     "subject": "ТПО",
@@ -27581,7 +27704,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 670
+    "id": 673
   },
   {
     "subject": "ТПО",
@@ -27622,7 +27745,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 671
+    "id": 674
   },
   {
     "subject": "ТПО",
@@ -27663,7 +27786,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 672
+    "id": 675
   },
   {
     "subject": "ТПО",
@@ -27704,7 +27827,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 673
+    "id": 676
   },
   {
     "subject": "ТПО",
@@ -27745,7 +27868,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 674
+    "id": 677
   },
   {
     "subject": "ТПО",
@@ -27788,7 +27911,7 @@
       "images/ТПО/v7_q18_img022.png"
     ],
     "correct_key": "3",
-    "id": 675
+    "id": 678
   },
   {
     "subject": "ТПО",
@@ -27831,7 +27954,7 @@
       "images/ТПО/v7_q19_img023.png"
     ],
     "correct_key": "5",
-    "id": 676
+    "id": 679
   },
   {
     "subject": "ТПО",
@@ -27874,7 +27997,7 @@
       "images/ТПО/v7_q20_img024.png"
     ],
     "correct_key": "2",
-    "id": 677
+    "id": 680
   },
   {
     "subject": "ТПО",
@@ -27915,7 +28038,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 678
+    "id": 681
   },
   {
     "subject": "ТПО",
@@ -27956,7 +28079,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 679
+    "id": 682
   },
   {
     "subject": "ТПО",
@@ -27997,7 +28120,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 680
+    "id": 683
   },
   {
     "subject": "ТПО",
@@ -28038,7 +28161,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 681
+    "id": 684
   },
   {
     "subject": "ТПО",
@@ -28079,7 +28202,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 682
+    "id": 685
   },
   {
     "subject": "ТПО",
@@ -28120,7 +28243,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 683
+    "id": 686
   },
   {
     "subject": "ТПО",
@@ -28161,7 +28284,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 684
+    "id": 687
   },
   {
     "subject": "ТПО",
@@ -28202,7 +28325,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 685
+    "id": 688
   },
   {
     "subject": "ТПО",
@@ -28243,7 +28366,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 686
+    "id": 689
   },
   {
     "subject": "ТПО",
@@ -28284,7 +28407,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 687
+    "id": 690
   },
   {
     "subject": "ТПО",
@@ -28325,7 +28448,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 688
+    "id": 691
   },
   {
     "subject": "ТПО",
@@ -28366,7 +28489,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 689
+    "id": 692
   },
   {
     "subject": "ТПО",
@@ -28407,7 +28530,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 690
+    "id": 693
   },
   {
     "subject": "ТПО",
@@ -28448,7 +28571,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 691
+    "id": 694
   },
   {
     "subject": "ТПО",
@@ -28489,7 +28612,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 692
+    "id": 695
   },
   {
     "subject": "ТПО",
@@ -28530,7 +28653,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 693
+    "id": 696
   },
   {
     "subject": "ТПО",
@@ -28571,7 +28694,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 694
+    "id": 697
   },
   {
     "subject": "ТПО",
@@ -28614,7 +28737,7 @@
       "images/ТПО/v8_q18_img025.png"
     ],
     "correct_key": "1",
-    "id": 695
+    "id": 698
   },
   {
     "subject": "ТПО",
@@ -28657,7 +28780,7 @@
       "images/ТПО/v8_q19_img026.png"
     ],
     "correct_key": "4",
-    "id": 696
+    "id": 699
   },
   {
     "subject": "ТПО",
@@ -28698,7 +28821,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 697
+    "id": 700
   },
   {
     "subject": "ТПО",
@@ -28739,7 +28862,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 698
+    "id": 701
   },
   {
     "subject": "ТПО",
@@ -28780,7 +28903,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 699
+    "id": 702
   },
   {
     "subject": "ТПО",
@@ -28821,7 +28944,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 700
+    "id": 703
   },
   {
     "subject": "ТПО",
@@ -28862,7 +28985,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 701
+    "id": 704
   },
   {
     "subject": "ТПО",
@@ -28903,7 +29026,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 702
+    "id": 705
   },
   {
     "subject": "ТПО",
@@ -28944,7 +29067,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 703
+    "id": 706
   },
   {
     "subject": "ТПО",
@@ -28985,7 +29108,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 704
+    "id": 707
   },
   {
     "subject": "ТПО",
@@ -29026,7 +29149,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 705
+    "id": 708
   },
   {
     "subject": "ТПО",
@@ -29067,7 +29190,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 706
+    "id": 709
   },
   {
     "subject": "ТПО",
@@ -29108,7 +29231,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 707
+    "id": 710
   },
   {
     "subject": "ТПО",
@@ -29149,7 +29272,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 708
+    "id": 711
   },
   {
     "subject": "ТПО",
@@ -29190,7 +29313,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 709
+    "id": 712
   },
   {
     "subject": "ТПО",
@@ -29231,7 +29354,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 710
+    "id": 713
   },
   {
     "subject": "ТПО",
@@ -29272,7 +29395,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 711
+    "id": 714
   },
   {
     "subject": "ТПО",
@@ -29313,7 +29436,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 712
+    "id": 715
   },
   {
     "subject": "ТПО",
@@ -29354,7 +29477,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 713
+    "id": 716
   },
   {
     "subject": "ТПО",
@@ -29395,7 +29518,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 714
+    "id": 717
   },
   {
     "subject": "ТПО",
@@ -29438,7 +29561,7 @@
       "images/ТПО/v9_q18_img027.png"
     ],
     "correct_key": "4",
-    "id": 715
+    "id": 718
   },
   {
     "subject": "ТПО",
@@ -29481,7 +29604,7 @@
       "images/ТПО/v9_q19_img028.png"
     ],
     "correct_key": "4",
-    "id": 716
+    "id": 719
   },
   {
     "subject": "ТПО",
@@ -29524,7 +29647,7 @@
       "images/ТПО/v9_q19_img029.png"
     ],
     "correct_key": "4",
-    "id": 717
+    "id": 720
   },
   {
     "subject": "ТРПО",
@@ -29565,7 +29688,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 718
+    "id": 721
   },
   {
     "subject": "ТРПО",
@@ -29606,7 +29729,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 719
+    "id": 722
   },
   {
     "subject": "ТРПО",
@@ -29647,7 +29770,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 720
+    "id": 723
   },
   {
     "subject": "ТРПО",
@@ -29688,7 +29811,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 721
+    "id": 724
   },
   {
     "subject": "ТРПО",
@@ -29729,7 +29852,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 722
+    "id": 725
   },
   {
     "subject": "ТРПО",
@@ -29770,7 +29893,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 723
+    "id": 726
   },
   {
     "subject": "ТРПО",
@@ -29811,7 +29934,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 724
+    "id": 727
   },
   {
     "subject": "ТРПО",
@@ -29852,7 +29975,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 725
+    "id": 728
   },
   {
     "subject": "ТРПО",
@@ -29893,7 +30016,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 726
+    "id": 729
   },
   {
     "subject": "ТРПО",
@@ -29934,7 +30057,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 727
+    "id": 730
   },
   {
     "subject": "ТРПО",
@@ -29975,7 +30098,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 728
+    "id": 731
   },
   {
     "subject": "ТРПО",
@@ -30016,7 +30139,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 729
+    "id": 732
   },
   {
     "subject": "ТРПО",
@@ -30059,7 +30182,7 @@
       "images/ТРПО/v1_q13_img001.png"
     ],
     "correct_key": "4",
-    "id": 730
+    "id": 733
   },
   {
     "subject": "ТРПО",
@@ -30102,7 +30225,7 @@
       "images/ТРПО/v1_q14_img002.png"
     ],
     "correct_key": "1",
-    "id": 731
+    "id": 734
   },
   {
     "subject": "ТРПО",
@@ -30143,7 +30266,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 732
+    "id": 735
   },
   {
     "subject": "ТРПО",
@@ -30184,7 +30307,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 733
+    "id": 736
   },
   {
     "subject": "ТРПО",
@@ -30225,7 +30348,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 734
+    "id": 737
   },
   {
     "subject": "ТРПО",
@@ -30266,7 +30389,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 735
+    "id": 738
   },
   {
     "subject": "ТРПО",
@@ -30307,7 +30430,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 736
+    "id": 739
   },
   {
     "subject": "ТРПО",
@@ -30348,7 +30471,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 737
+    "id": 740
   },
   {
     "subject": "ТРПО",
@@ -30389,7 +30512,89 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 738
+    "id": 741
+  },
+  {
+    "subject": "ТРПО",
+    "variant": 10,
+    "number": 2,
+    "question": "Какой элемент диаграммы последовательности показывает момент создания объекта?",
+    "options": [
+      {
+        "key": "1",
+        "text": "Линия жизни",
+        "is_correct": false,
+        "images": []
+      },
+      {
+        "key": "2",
+        "text": "Активация",
+        "is_correct": false,
+        "images": []
+      },
+      {
+        "key": "3",
+        "text": "Стрелка возврата",
+        "is_correct": false,
+        "images": []
+      },
+      {
+        "key": "4",
+        "text": "Сообщение со стереотипом <<create>>",
+        "is_correct": true,
+        "images": []
+      },
+      {
+        "key": "5",
+        "text": "Фокус управления",
+        "is_correct": false,
+        "images": []
+      }
+    ],
+    "images": [],
+    "correct_key": "4",
+    "id": 742
+  },
+  {
+    "subject": "ТРПО",
+    "variant": 10,
+    "number": 3,
+    "question": "Как изображается отношение зависимости на диаграмме компонентов?",
+    "options": [
+      {
+        "key": "1",
+        "text": "Жирной сплошной стрелкой",
+        "is_correct": false,
+        "images": []
+      },
+      {
+        "key": "2",
+        "text": "Пунктирной линией со стрелкой от клиента к источнику",
+        "is_correct": true,
+        "images": []
+      },
+      {
+        "key": "3",
+        "text": "Сплошной линией без стрелки",
+        "is_correct": false,
+        "images": []
+      },
+      {
+        "key": "4",
+        "text": "Волнистой линией",
+        "is_correct": false,
+        "images": []
+      },
+      {
+        "key": "5",
+        "text": "Двойной сплошной линией",
+        "is_correct": false,
+        "images": []
+      }
+    ],
+    "images": [],
+    "correct_key": "2",
+    "id": 743
   },
   {
     "subject": "ТРПО",
@@ -30430,7 +30635,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 739
+    "id": 744
   },
   {
     "subject": "ТРПО",
@@ -30471,7 +30676,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 740
+    "id": 745
   },
   {
     "subject": "ТРПО",
@@ -30512,7 +30717,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 741
+    "id": 746
   },
   {
     "subject": "ТРПО",
@@ -30553,7 +30758,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 742
+    "id": 747
   },
   {
     "subject": "ТРПО",
@@ -30594,7 +30799,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 743
+    "id": 748
   },
   {
     "subject": "ТРПО",
@@ -30635,7 +30840,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 744
+    "id": 749
   },
   {
     "subject": "ТРПО",
@@ -30676,7 +30881,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 745
+    "id": 750
   },
   {
     "subject": "ТРПО",
@@ -30717,7 +30922,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 746
+    "id": 751
   },
   {
     "subject": "ТРПО",
@@ -30758,7 +30963,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 747
+    "id": 752
   },
   {
     "subject": "ТРПО",
@@ -30801,7 +31006,7 @@
       "images/ТРПО/v10_q13_img003.png"
     ],
     "correct_key": "1",
-    "id": 748
+    "id": 753
   },
   {
     "subject": "ТРПО",
@@ -30844,7 +31049,7 @@
       "images/ТРПО/v10_q14_img004.png"
     ],
     "correct_key": "5",
-    "id": 749
+    "id": 754
   },
   {
     "subject": "ТРПО",
@@ -30885,7 +31090,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 750
+    "id": 755
   },
   {
     "subject": "ТРПО",
@@ -30926,7 +31131,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 751
+    "id": 756
   },
   {
     "subject": "ТРПО",
@@ -30967,7 +31172,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 752
+    "id": 757
   },
   {
     "subject": "ТРПО",
@@ -31008,7 +31213,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 753
+    "id": 758
   },
   {
     "subject": "ТРПО",
@@ -31049,7 +31254,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 754
+    "id": 759
   },
   {
     "subject": "ТРПО",
@@ -31090,7 +31295,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 755
+    "id": 760
   },
   {
     "subject": "ТРПО",
@@ -31131,7 +31336,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 756
+    "id": 761
   },
   {
     "subject": "ТРПО",
@@ -31172,7 +31377,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 757
+    "id": 762
   },
   {
     "subject": "ТРПО",
@@ -31213,7 +31418,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 758
+    "id": 763
   },
   {
     "subject": "ТРПО",
@@ -31254,7 +31459,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 759
+    "id": 764
   },
   {
     "subject": "ТРПО",
@@ -31295,7 +31500,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 760
+    "id": 765
   },
   {
     "subject": "ТРПО",
@@ -31336,7 +31541,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 761
+    "id": 766
   },
   {
     "subject": "ТРПО",
@@ -31377,7 +31582,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 762
+    "id": 767
   },
   {
     "subject": "ТРПО",
@@ -31418,7 +31623,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 763
+    "id": 768
   },
   {
     "subject": "ТРПО",
@@ -31459,7 +31664,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 764
+    "id": 769
   },
   {
     "subject": "ТРПО",
@@ -31500,7 +31705,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 765
+    "id": 770
   },
   {
     "subject": "ТРПО",
@@ -31541,7 +31746,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 766
+    "id": 771
   },
   {
     "subject": "ТРПО",
@@ -31582,7 +31787,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 767
+    "id": 772
   },
   {
     "subject": "ТРПО",
@@ -31625,7 +31830,7 @@
       "images/ТРПО/v11_q13_img005.png"
     ],
     "correct_key": "3",
-    "id": 768
+    "id": 773
   },
   {
     "subject": "ТРПО",
@@ -31668,7 +31873,7 @@
       "images/ТРПО/v11_q14_img006.png"
     ],
     "correct_key": "2",
-    "id": 769
+    "id": 774
   },
   {
     "subject": "ТРПО",
@@ -31709,7 +31914,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 770
+    "id": 775
   },
   {
     "subject": "ТРПО",
@@ -31750,7 +31955,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 771
+    "id": 776
   },
   {
     "subject": "ТРПО",
@@ -31791,7 +31996,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 772
+    "id": 777
   },
   {
     "subject": "ТРПО",
@@ -31832,7 +32037,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 773
+    "id": 778
   },
   {
     "subject": "ТРПО",
@@ -31873,7 +32078,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 774
+    "id": 779
   },
   {
     "subject": "ТРПО",
@@ -31914,7 +32119,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 775
+    "id": 780
   },
   {
     "subject": "ТРПО",
@@ -31955,7 +32160,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 776
+    "id": 781
   },
   {
     "subject": "ТРПО",
@@ -31996,7 +32201,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 777
+    "id": 782
   },
   {
     "subject": "ТРПО",
@@ -32037,7 +32242,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 778
+    "id": 783
   },
   {
     "subject": "ТРПО",
@@ -32078,7 +32283,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 779
+    "id": 784
   },
   {
     "subject": "ТРПО",
@@ -32119,7 +32324,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 780
+    "id": 785
   },
   {
     "subject": "ТРПО",
@@ -32160,7 +32365,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 781
+    "id": 786
   },
   {
     "subject": "ТРПО",
@@ -32201,7 +32406,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 782
+    "id": 787
   },
   {
     "subject": "ТРПО",
@@ -32242,7 +32447,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 783
+    "id": 788
   },
   {
     "subject": "ТРПО",
@@ -32283,7 +32488,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 784
+    "id": 789
   },
   {
     "subject": "ТРПО",
@@ -32324,7 +32529,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 785
+    "id": 790
   },
   {
     "subject": "ТРПО",
@@ -32365,7 +32570,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 786
+    "id": 791
   },
   {
     "subject": "ТРПО",
@@ -32408,7 +32613,7 @@
       "images/ТРПО/v12_q12_img007.png"
     ],
     "correct_key": "2",
-    "id": 787
+    "id": 792
   },
   {
     "subject": "ТРПО",
@@ -32451,7 +32656,7 @@
       "images/ТРПО/v12_q13_img008.png"
     ],
     "correct_key": "4",
-    "id": 788
+    "id": 793
   },
   {
     "subject": "ТРПО",
@@ -32494,7 +32699,7 @@
       "images/ТРПО/v12_q14_img009.png"
     ],
     "correct_key": "5",
-    "id": 789
+    "id": 794
   },
   {
     "subject": "ТРПО",
@@ -32535,7 +32740,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 790
+    "id": 795
   },
   {
     "subject": "ТРПО",
@@ -32576,7 +32781,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 791
+    "id": 796
   },
   {
     "subject": "ТРПО",
@@ -32617,7 +32822,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 792
+    "id": 797
   },
   {
     "subject": "ТРПО",
@@ -32658,7 +32863,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 793
+    "id": 798
   },
   {
     "subject": "ТРПО",
@@ -32699,7 +32904,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 794
+    "id": 799
   },
   {
     "subject": "ТРПО",
@@ -32740,7 +32945,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 795
+    "id": 800
   },
   {
     "subject": "ТРПО",
@@ -32781,7 +32986,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 796
+    "id": 801
   },
   {
     "subject": "ТРПО",
@@ -32822,7 +33027,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 797
+    "id": 802
   },
   {
     "subject": "ТРПО",
@@ -32863,7 +33068,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 798
+    "id": 803
   },
   {
     "subject": "ТРПО",
@@ -32904,7 +33109,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 799
+    "id": 804
   },
   {
     "subject": "ТРПО",
@@ -32945,7 +33150,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 800
+    "id": 805
   },
   {
     "subject": "ТРПО",
@@ -32986,7 +33191,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 801
+    "id": 806
   },
   {
     "subject": "ТРПО",
@@ -33027,7 +33232,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 802
+    "id": 807
   },
   {
     "subject": "ТРПО",
@@ -33068,7 +33273,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 803
+    "id": 808
   },
   {
     "subject": "ТРПО",
@@ -33109,7 +33314,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 804
+    "id": 809
   },
   {
     "subject": "ТРПО",
@@ -33150,7 +33355,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 805
+    "id": 810
   },
   {
     "subject": "ТРПО",
@@ -33191,7 +33396,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 806
+    "id": 811
   },
   {
     "subject": "ТРПО",
@@ -33232,7 +33437,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 807
+    "id": 812
   },
   {
     "subject": "ТРПО",
@@ -33275,7 +33480,7 @@
       "images/ТРПО/v2_q13_img010.png"
     ],
     "correct_key": "5",
-    "id": 808
+    "id": 813
   },
   {
     "subject": "ТРПО",
@@ -33318,7 +33523,7 @@
       "images/ТРПО/v2_q14_img011.png"
     ],
     "correct_key": "1",
-    "id": 809
+    "id": 814
   },
   {
     "subject": "ТРПО",
@@ -33359,7 +33564,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 810
+    "id": 815
   },
   {
     "subject": "ТРПО",
@@ -33400,7 +33605,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 811
+    "id": 816
   },
   {
     "subject": "ТРПО",
@@ -33441,7 +33646,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 812
+    "id": 817
   },
   {
     "subject": "ТРПО",
@@ -33482,7 +33687,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 813
+    "id": 818
   },
   {
     "subject": "ТРПО",
@@ -33523,7 +33728,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 814
+    "id": 819
   },
   {
     "subject": "ТРПО",
@@ -33564,7 +33769,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 815
+    "id": 820
   },
   {
     "subject": "ТРПО",
@@ -33605,7 +33810,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 816
+    "id": 821
   },
   {
     "subject": "ТРПО",
@@ -33646,7 +33851,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 817
+    "id": 822
   },
   {
     "subject": "ТРПО",
@@ -33687,7 +33892,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 818
+    "id": 823
   },
   {
     "subject": "ТРПО",
@@ -33728,7 +33933,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 819
+    "id": 824
   },
   {
     "subject": "ТРПО",
@@ -33769,7 +33974,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 820
+    "id": 825
   },
   {
     "subject": "ТРПО",
@@ -33810,7 +34015,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 821
+    "id": 826
   },
   {
     "subject": "ТРПО",
@@ -33851,7 +34056,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 822
+    "id": 827
   },
   {
     "subject": "ТРПО",
@@ -33892,7 +34097,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 823
+    "id": 828
   },
   {
     "subject": "ТРПО",
@@ -33933,7 +34138,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 824
+    "id": 829
   },
   {
     "subject": "ТРПО",
@@ -33974,7 +34179,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 825
+    "id": 830
   },
   {
     "subject": "ТРПО",
@@ -34015,7 +34220,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 826
+    "id": 831
   },
   {
     "subject": "ТРПО",
@@ -34056,7 +34261,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 827
+    "id": 832
   },
   {
     "subject": "ТРПО",
@@ -34099,7 +34304,7 @@
       "images/ТРПО/v3_q13_img012.png"
     ],
     "correct_key": "1",
-    "id": 828
+    "id": 833
   },
   {
     "subject": "ТРПО",
@@ -34142,7 +34347,7 @@
       "images/ТРПО/v3_q14_img013.png"
     ],
     "correct_key": "5",
-    "id": 829
+    "id": 834
   },
   {
     "subject": "ТРПО",
@@ -34183,7 +34388,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 830
+    "id": 835
   },
   {
     "subject": "ТРПО",
@@ -34224,7 +34429,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 831
+    "id": 836
   },
   {
     "subject": "ТРПО",
@@ -34265,7 +34470,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 832
+    "id": 837
   },
   {
     "subject": "ТРПО",
@@ -34306,7 +34511,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 833
+    "id": 838
   },
   {
     "subject": "ТРПО",
@@ -34347,7 +34552,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 834
+    "id": 839
   },
   {
     "subject": "ТРПО",
@@ -34388,7 +34593,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 835
+    "id": 840
   },
   {
     "subject": "ТРПО",
@@ -34429,7 +34634,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 836
+    "id": 841
   },
   {
     "subject": "ТРПО",
@@ -34470,7 +34675,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 837
+    "id": 842
   },
   {
     "subject": "ТРПО",
@@ -34511,7 +34716,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 838
+    "id": 843
   },
   {
     "subject": "ТРПО",
@@ -34552,7 +34757,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 839
+    "id": 844
   },
   {
     "subject": "ТРПО",
@@ -34593,7 +34798,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 840
+    "id": 845
   },
   {
     "subject": "ТРПО",
@@ -34634,7 +34839,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 841
+    "id": 846
   },
   {
     "subject": "ТРПО",
@@ -34675,7 +34880,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 842
+    "id": 847
   },
   {
     "subject": "ТРПО",
@@ -34716,7 +34921,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 843
+    "id": 848
   },
   {
     "subject": "ТРПО",
@@ -34757,7 +34962,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 844
+    "id": 849
   },
   {
     "subject": "ТРПО",
@@ -34798,7 +35003,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 845
+    "id": 850
   },
   {
     "subject": "ТРПО",
@@ -34839,7 +35044,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 846
+    "id": 851
   },
   {
     "subject": "ТРПО",
@@ -34880,7 +35085,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 847
+    "id": 852
   },
   {
     "subject": "ТРПО",
@@ -34923,7 +35128,7 @@
       "images/ТРПО/v4_q13_img014.png"
     ],
     "correct_key": "5",
-    "id": 848
+    "id": 853
   },
   {
     "subject": "ТРПО",
@@ -34966,7 +35171,7 @@
       "images/ТРПО/v4_q14_img015.png"
     ],
     "correct_key": "1",
-    "id": 849
+    "id": 854
   },
   {
     "subject": "ТРПО",
@@ -35007,7 +35212,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 850
+    "id": 855
   },
   {
     "subject": "ТРПО",
@@ -35048,7 +35253,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 851
+    "id": 856
   },
   {
     "subject": "ТРПО",
@@ -35089,7 +35294,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 852
+    "id": 857
   },
   {
     "subject": "ТРПО",
@@ -35130,7 +35335,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 853
+    "id": 858
   },
   {
     "subject": "ТРПО",
@@ -35171,7 +35376,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 854
+    "id": 859
   },
   {
     "subject": "ТРПО",
@@ -35212,7 +35417,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 855
+    "id": 860
   },
   {
     "subject": "ТРПО",
@@ -35253,7 +35458,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 856
+    "id": 861
   },
   {
     "subject": "ТРПО",
@@ -35294,7 +35499,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 857
+    "id": 862
   },
   {
     "subject": "ТРПО",
@@ -35335,7 +35540,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 858
+    "id": 863
   },
   {
     "subject": "ТРПО",
@@ -35376,7 +35581,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 859
+    "id": 864
   },
   {
     "subject": "ТРПО",
@@ -35417,7 +35622,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 860
+    "id": 865
   },
   {
     "subject": "ТРПО",
@@ -35458,7 +35663,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 861
+    "id": 866
   },
   {
     "subject": "ТРПО",
@@ -35499,7 +35704,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 862
+    "id": 867
   },
   {
     "subject": "ТРПО",
@@ -35540,7 +35745,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 863
+    "id": 868
   },
   {
     "subject": "ТРПО",
@@ -35581,7 +35786,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 864
+    "id": 869
   },
   {
     "subject": "ТРПО",
@@ -35622,7 +35827,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 865
+    "id": 870
   },
   {
     "subject": "ТРПО",
@@ -35663,7 +35868,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 866
+    "id": 871
   },
   {
     "subject": "ТРПО",
@@ -35704,7 +35909,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 867
+    "id": 872
   },
   {
     "subject": "ТРПО",
@@ -35747,7 +35952,7 @@
       "images/ТРПО/v5_q13_img016.png"
     ],
     "correct_key": "4",
-    "id": 868
+    "id": 873
   },
   {
     "subject": "ТРПО",
@@ -35790,7 +35995,7 @@
       "images/ТРПО/v5_q14_img017.png"
     ],
     "correct_key": "1",
-    "id": 869
+    "id": 874
   },
   {
     "subject": "ТРПО",
@@ -35831,7 +36036,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 870
+    "id": 875
   },
   {
     "subject": "ТРПО",
@@ -35872,7 +36077,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 871
+    "id": 876
   },
   {
     "subject": "ТРПО",
@@ -35913,7 +36118,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 872
+    "id": 877
   },
   {
     "subject": "ТРПО",
@@ -35954,7 +36159,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 873
+    "id": 878
   },
   {
     "subject": "ТРПО",
@@ -35995,7 +36200,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 874
+    "id": 879
   },
   {
     "subject": "ТРПО",
@@ -36036,7 +36241,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 875
+    "id": 880
   },
   {
     "subject": "ТРПО",
@@ -36077,7 +36282,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 876
+    "id": 881
   },
   {
     "subject": "ТРПО",
@@ -36118,7 +36323,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 877
+    "id": 882
   },
   {
     "subject": "ТРПО",
@@ -36159,7 +36364,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 878
+    "id": 883
   },
   {
     "subject": "ТРПО",
@@ -36200,7 +36405,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 879
+    "id": 884
   },
   {
     "subject": "ТРПО",
@@ -36241,7 +36446,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 880
+    "id": 885
   },
   {
     "subject": "ТРПО",
@@ -36282,7 +36487,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 881
+    "id": 886
   },
   {
     "subject": "ТРПО",
@@ -36323,7 +36528,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 882
+    "id": 887
   },
   {
     "subject": "ТРПО",
@@ -36364,7 +36569,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 883
+    "id": 888
   },
   {
     "subject": "ТРПО",
@@ -36405,7 +36610,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 884
+    "id": 889
   },
   {
     "subject": "ТРПО",
@@ -36446,7 +36651,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 885
+    "id": 890
   },
   {
     "subject": "ТРПО",
@@ -36487,7 +36692,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 886
+    "id": 891
   },
   {
     "subject": "ТРПО",
@@ -36528,7 +36733,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 887
+    "id": 892
   },
   {
     "subject": "ТРПО",
@@ -36571,7 +36776,7 @@
       "images/ТРПО/v6_q13_img018.png"
     ],
     "correct_key": "4",
-    "id": 888
+    "id": 893
   },
   {
     "subject": "ТРПО",
@@ -36614,7 +36819,7 @@
       "images/ТРПО/v6_q14_img019.png"
     ],
     "correct_key": "5",
-    "id": 889
+    "id": 894
   },
   {
     "subject": "ТРПО",
@@ -36655,7 +36860,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 890
+    "id": 895
   },
   {
     "subject": "ТРПО",
@@ -36696,7 +36901,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 891
+    "id": 896
   },
   {
     "subject": "ТРПО",
@@ -36737,7 +36942,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 892
+    "id": 897
   },
   {
     "subject": "ТРПО",
@@ -36778,7 +36983,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 893
+    "id": 898
   },
   {
     "subject": "ТРПО",
@@ -36819,7 +37024,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 894
+    "id": 899
   },
   {
     "subject": "ТРПО",
@@ -36860,7 +37065,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 895
+    "id": 900
   },
   {
     "subject": "ТРПО",
@@ -36901,7 +37106,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 896
+    "id": 901
   },
   {
     "subject": "ТРПО",
@@ -36942,7 +37147,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 897
+    "id": 902
   },
   {
     "subject": "ТРПО",
@@ -36983,7 +37188,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 898
+    "id": 903
   },
   {
     "subject": "ТРПО",
@@ -37024,7 +37229,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 899
+    "id": 904
   },
   {
     "subject": "ТРПО",
@@ -37065,7 +37270,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 900
+    "id": 905
   },
   {
     "subject": "ТРПО",
@@ -37106,7 +37311,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 901
+    "id": 906
   },
   {
     "subject": "ТРПО",
@@ -37147,7 +37352,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 902
+    "id": 907
   },
   {
     "subject": "ТРПО",
@@ -37188,7 +37393,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 903
+    "id": 908
   },
   {
     "subject": "ТРПО",
@@ -37229,7 +37434,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 904
+    "id": 909
   },
   {
     "subject": "ТРПО",
@@ -37270,7 +37475,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 905
+    "id": 910
   },
   {
     "subject": "ТРПО",
@@ -37311,7 +37516,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 906
+    "id": 911
   },
   {
     "subject": "ТРПО",
@@ -37352,7 +37557,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 907
+    "id": 912
   },
   {
     "subject": "ТРПО",
@@ -37395,7 +37600,7 @@
       "images/ТРПО/v7_q13_img020.png"
     ],
     "correct_key": "3",
-    "id": 908
+    "id": 913
   },
   {
     "subject": "ТРПО",
@@ -37438,7 +37643,7 @@
       "images/ТРПО/v7_q14_img021.png"
     ],
     "correct_key": "4",
-    "id": 909
+    "id": 914
   },
   {
     "subject": "ТРПО",
@@ -37479,7 +37684,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 910
+    "id": 915
   },
   {
     "subject": "ТРПО",
@@ -37520,7 +37725,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 911
+    "id": 916
   },
   {
     "subject": "ТРПО",
@@ -37561,7 +37766,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 912
+    "id": 917
   },
   {
     "subject": "ТРПО",
@@ -37602,7 +37807,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 913
+    "id": 918
   },
   {
     "subject": "ТРПО",
@@ -37643,7 +37848,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 914
+    "id": 919
   },
   {
     "subject": "ТРПО",
@@ -37684,7 +37889,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 915
+    "id": 920
   },
   {
     "subject": "ТРПО",
@@ -37725,7 +37930,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 916
+    "id": 921
   },
   {
     "subject": "ТРПО",
@@ -37766,7 +37971,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 917
+    "id": 922
   },
   {
     "subject": "ТРПО",
@@ -37807,7 +38012,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 918
+    "id": 923
   },
   {
     "subject": "ТРПО",
@@ -37848,7 +38053,48 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 919
+    "id": 924
+  },
+  {
+    "subject": "ТРПО",
+    "variant": 8,
+    "number": 5,
+    "question": "Какую информацию содержит диаграмма компонентов в языке UML?",
+    "options": [
+      {
+        "key": "1",
+        "text": "показывает разбиение программной системы на структурные компоненты и связи (зависимости) между компонентами",
+        "is_correct": true,
+        "images": []
+      },
+      {
+        "key": "2",
+        "text": "содержит только структурные компоненты",
+        "is_correct": false,
+        "images": []
+      },
+      {
+        "key": "3",
+        "text": "содержит только связи (зависимости) между компонентами",
+        "is_correct": false,
+        "images": []
+      },
+      {
+        "key": "4",
+        "text": "все ответы верны",
+        "is_correct": false,
+        "images": []
+      },
+      {
+        "key": "5",
+        "text": "содержит только UML-компоненты",
+        "is_correct": false,
+        "images": []
+      }
+    ],
+    "images": [],
+    "correct_key": "1",
+    "id": 925
   },
   {
     "subject": "ТРПО",
@@ -37889,7 +38135,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 920
+    "id": 926
   },
   {
     "subject": "ТРПО",
@@ -37930,7 +38176,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 921
+    "id": 927
   },
   {
     "subject": "ТРПО",
@@ -37971,7 +38217,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 922
+    "id": 928
   },
   {
     "subject": "ТРПО",
@@ -38012,7 +38258,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 923
+    "id": 929
   },
   {
     "subject": "ТРПО",
@@ -38053,7 +38299,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 924
+    "id": 930
   },
   {
     "subject": "ТРПО",
@@ -38094,7 +38340,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 925
+    "id": 931
   },
   {
     "subject": "ТРПО",
@@ -38135,12 +38381,12 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 926
+    "id": 932
   },
   {
     "subject": "ТРПО",
     "variant": 8,
-    "number": 12,
+    "number": 13,
     "question": "Что такое TDD (Test-Driven Development)?",
     "options": [
       {
@@ -38176,12 +38422,12 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 927
+    "id": 933
   },
   {
     "subject": "ТРПО",
     "variant": 8,
-    "number": 13,
+    "number": 14,
     "question": "Что означает этот блок в диаграмме DFD?",
     "options": [
       {
@@ -38216,15 +38462,15 @@
       }
     ],
     "images": [
-      "images/ТРПО/v8_q13_img022.png"
+      "images/ТРПО/v8_q14_img022.png"
     ],
     "correct_key": "2",
-    "id": 928
+    "id": 934
   },
   {
     "subject": "ТРПО",
     "variant": 8,
-    "number": 14,
+    "number": 15,
     "question": "Что обозначает выделенный овал X на ERD?",
     "options": [
       {
@@ -38259,15 +38505,15 @@
       }
     ],
     "images": [
-      "images/ТРПО/v8_q14_img023.png"
+      "images/ТРПО/v8_q15_img023.png"
     ],
     "correct_key": "3",
-    "id": 929
+    "id": 935
   },
   {
     "subject": "ТРПО",
     "variant": 8,
-    "number": 15,
+    "number": 16,
     "question": "Как называется свойство требования, означающее его однозначную трактовку?",
     "options": [
       {
@@ -38303,12 +38549,12 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 930
+    "id": 936
   },
   {
     "subject": "ТРПО",
     "variant": 8,
-    "number": 16,
+    "number": 17,
     "question": "Как называется документ, фиксирующий согласованные требования?",
     "options": [
       {
@@ -38344,12 +38590,12 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 931
+    "id": 937
   },
   {
     "subject": "ТРПО",
     "variant": 8,
-    "number": 17,
+    "number": 18,
     "question": "Какая графическая фигура используется для изображения функционального блока в нотации IDEF0?",
     "options": [
       {
@@ -38385,12 +38631,12 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 932
+    "id": 938
   },
   {
     "subject": "ТРПО",
     "variant": 8,
-    "number": 18,
+    "number": 19,
     "question": "Что характеризует показатель «связности» (Cohesion) модуля при проектировании программного обеспечения?",
     "options": [
       {
@@ -38426,12 +38672,12 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 933
+    "id": 939
   },
   {
     "subject": "ТРПО",
     "variant": 8,
-    "number": 19,
+    "number": 20,
     "question": "Какой принцип структурного подхода предполагает, что каждый модуль должен решать одну чётко определённую задачу?",
     "options": [
       {
@@ -38467,12 +38713,12 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 934
+    "id": 940
   },
   {
     "subject": "ТРПО",
     "variant": 8,
-    "number": 20,
+    "number": 21,
     "question": "Что означает «синхронный» перекресток в IDEF3?",
     "options": [
       {
@@ -38508,7 +38754,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 935
+    "id": 941
   },
   {
     "subject": "ТРПО",
@@ -38549,7 +38795,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 936
+    "id": 942
   },
   {
     "subject": "ТРПО",
@@ -38590,7 +38836,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 937
+    "id": 943
   },
   {
     "subject": "ТРПО",
@@ -38631,7 +38877,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 938
+    "id": 944
   },
   {
     "subject": "ТРПО",
@@ -38672,7 +38918,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 939
+    "id": 945
   },
   {
     "subject": "ТРПО",
@@ -38713,7 +38959,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 940
+    "id": 946
   },
   {
     "subject": "ТРПО",
@@ -38754,7 +39000,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 941
+    "id": 947
   },
   {
     "subject": "ТРПО",
@@ -38795,7 +39041,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 942
+    "id": 948
   },
   {
     "subject": "ТРПО",
@@ -38836,7 +39082,7 @@
     ],
     "images": [],
     "correct_key": "1",
-    "id": 943
+    "id": 949
   },
   {
     "subject": "ТРПО",
@@ -38877,7 +39123,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 944
+    "id": 950
   },
   {
     "subject": "ТРПО",
@@ -38918,7 +39164,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 945
+    "id": 951
   },
   {
     "subject": "ТРПО",
@@ -38959,7 +39205,7 @@
     ],
     "images": [],
     "correct_key": "3",
-    "id": 946
+    "id": 952
   },
   {
     "subject": "ТРПО",
@@ -39002,7 +39248,7 @@
       "images/ТРПО/v9_q12_img024.png"
     ],
     "correct_key": "5",
-    "id": 947
+    "id": 953
   },
   {
     "subject": "ТРПО",
@@ -39045,7 +39291,7 @@
       "images/ТРПО/v9_q13_img025.png"
     ],
     "correct_key": "3",
-    "id": 948
+    "id": 954
   },
   {
     "subject": "ТРПО",
@@ -39086,7 +39332,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 949
+    "id": 955
   },
   {
     "subject": "ТРПО",
@@ -39127,7 +39373,7 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 950
+    "id": 956
   },
   {
     "subject": "ТРПО",
@@ -39168,7 +39414,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 951
+    "id": 957
   },
   {
     "subject": "ТРПО",
@@ -39209,7 +39455,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 952
+    "id": 958
   },
   {
     "subject": "ТРПО",
@@ -39250,7 +39496,7 @@
     ],
     "images": [],
     "correct_key": "4",
-    "id": 953
+    "id": 959
   },
   {
     "subject": "ТРПО",
@@ -39291,7 +39537,7 @@
     ],
     "images": [],
     "correct_key": "2",
-    "id": 954
+    "id": 960
   },
   {
     "subject": "ТРПО",
@@ -39332,6 +39578,6 @@
     ],
     "images": [],
     "correct_key": "5",
-    "id": 955
+    "id": 961
   }
 ]
