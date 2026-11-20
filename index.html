@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
   <title>Тестирование по дисциплинам</title>
   <style>
     :root {
@@ -271,7 +272,7 @@
     <!-- Экран 1: Выбор дисциплины -->
     <section id="startScreen" class="card">
       <h1>Онлайн-тестирование</h1>
-      <p class="sub">Выберите дисциплину — система случайным образом подберёт 20 вопросов из базы.</p>
+      <p class="sub">Выберите дисциплину — система случайным образом подберёт 20 вопросов и перемешает варианты ответов.</p>
       <div id="subjectGrid" class="subject-grid">Загрузка базы вопросов...</div>
     </section>
 
@@ -352,7 +353,8 @@
 
     async function init() {
       try {
-        const res = await fetch("questions.json");
+        // Параметр ?v= предотвращает загрузку устаревшего JSON из кэша браузера
+        const res = await fetch("questions.json?v=" + Date.now(), { cache: "no-store" });
         allQuestions = await res.json();
 
         const bySubject = {};
@@ -384,19 +386,39 @@
         .replace(/>/g, "&gt;");
     }
 
-    function pickRandomQuestions(pool, count) {
-      const copy = [...pool];
+    // Перемешивание Фишера — Йетса (гарантирует новый случайный порядок)
+    function shuffleArray(arr) {
+      const copy = arr.map(item => ({ ...item }));
       for (let i = copy.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
-        [copy[i], copy[j]] = [copy[j], copy[i]];
+        const temp = copy[i];
+        copy[i] = copy[j];
+        copy[j] = temp;
       }
-      return copy.slice(0, Math.min(count, copy.length));
+      return copy;
     }
 
     function startQuiz(subject) {
       currentSubject = subject;
       const pool = allQuestions.filter(q => q.subject === subject);
-      quizQuestions = pickRandomQuestions(pool, QUESTIONS_PER_TEST);
+
+      // Перемешиваем вопросы и принудительно перемешиваем варианты ответа внутри каждого вопроса
+      const picked = shuffleArray(pool).slice(0, Math.min(QUESTIONS_PER_TEST, pool.length));
+      quizQuestions = picked.map(q => {
+        let mixedOptions = shuffleArray(q.options || []);
+        // Если случайно выпал точно такой же порядок, как в исходнике — перемешиваем ещё раз
+        if (
+          mixedOptions.length > 1 &&
+          mixedOptions.every((opt, i) => opt.text === q.options[i].text)
+        ) {
+          mixedOptions = shuffleArray(mixedOptions);
+        }
+        return {
+          ...q,
+          options: mixedOptions
+        };
+      });
+
       userAnswers = new Array(quizQuestions.length).fill(null);
       currentIndex = 0;
 
@@ -415,7 +437,7 @@
 
       document.getElementById("questionCounter").textContent = `Вопрос ${currentIndex + 1} из ${total}`;
       document.getElementById("progressFill").style.width = `${((currentIndex + 1) / total) * 100}%`;
-      document.getElementById("qMeta").textContent = `Источник: Вариант ${q.variant}, №${q.number}`;
+      document.getElementById("qMeta").textContent = `Источник: Вариант ${q.variant}, №${q.number} • Варианты перемешаны`;
       document.getElementById("qText").textContent = q.question;
 
       const qImagesEl = document.getElementById("qImages");
@@ -438,7 +460,7 @@
         label.innerHTML = `
           <input type="radio" name="opt" value="${idx}" ${isSelected ? "checked" : ""} />
           <div>
-            <strong>${escapeHtml(opt.key)})</strong> ${escapeHtml(opt.text)}
+            <strong>${idx + 1})</strong> ${escapeHtml(opt.text)}
             ${imgsHtml}
           </div>
         `;
@@ -541,7 +563,7 @@
 
           return `
             <div class="${cls}">
-              <strong>${escapeHtml(opt.key)})</strong> ${escapeHtml(opt.text)}${badges}
+              <strong>${optIdx + 1})</strong> ${escapeHtml(opt.text)}${badges}
               ${optImgs}
             </div>
           `;
